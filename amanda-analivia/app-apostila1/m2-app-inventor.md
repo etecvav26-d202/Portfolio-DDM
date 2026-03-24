@@ -26,4 +26,6 @@ Informática para Internet
 **Funcionamento:**   
 O funcionamento do aplicativo é baseado em eventos de clique nos botões presentes na tela. Ao clicar no botão “Clique aqui!”, o sistema executa uma ação que exibe o texto de uma legenda, exibindo a mensagem “Olá, mundo” para o usuário. Quando o botão “Limpar” é pressionado, o aplicativo remove o conteúdo exibido anteriormente. Já o botão “Fechar” tem a função de encerrar o aplicativo imediatamente. Dessa forma, o app responde diretamente às ações do usuário, demonstrando na prática como funciona a lógica de programação orientada a eventos em aplicativos móveis.
 
+**Modificações feitas diante da apostila:**
+
 ## Print da tela do Design
