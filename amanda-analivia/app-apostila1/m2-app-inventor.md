@@ -40,3 +40,4 @@ Com base no exemplo apresentado na apostila, foram realizadas algumas melhorias 
 # Projeto 2 – Segundo Aplicativo (pg. 46)
 
 ## Descrição
+**Objetivo:**   
