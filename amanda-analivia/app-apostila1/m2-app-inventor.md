@@ -58,3 +58,6 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 ---
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
+
+## Descrição
+**Objetivo:**   
