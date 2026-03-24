@@ -114,3 +114,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 ## Print da tela dos Blocos
 ![Blocos de programação](imagens/blocos5.png)
+
+---
+
+# Projeto 6 – Sexto Aplicativo (pg. 82)
