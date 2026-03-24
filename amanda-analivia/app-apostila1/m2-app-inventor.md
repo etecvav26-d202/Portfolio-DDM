@@ -54,3 +54,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 ## Print da tela dos Blocos
 ![Blocos de programação](imagens/blocos2.png)
+
+---
+
+# Projeto 3 – Terceiro Aplicativo (pg. 56)
