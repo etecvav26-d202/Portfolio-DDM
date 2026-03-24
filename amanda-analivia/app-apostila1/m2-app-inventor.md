@@ -1,5 +1,7 @@
 # Relatório dos Aplicativos
 
+---
+
 ## Instituição
 Etec Vasco Ântonio Venchiarutti
 
@@ -12,3 +14,9 @@ Informática para Internet
 ## Autores
 - Amanda Neves Oliveira
 - Ana Lívia Takeyama Romanato
+
+---
+
+# Projeto 1 – Primeiro Aplicativo (pg. 27)
+
+
