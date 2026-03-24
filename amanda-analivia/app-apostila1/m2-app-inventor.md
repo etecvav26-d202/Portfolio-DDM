@@ -31,3 +31,5 @@ Com base no exemplo apresentado na apostila, foram realizadas algumas melhorias 
 
 ## Print da tela do Design
 ![Desing do aplicativo](imagens/screen1.png)
+
+## Print da tela dos blocos
