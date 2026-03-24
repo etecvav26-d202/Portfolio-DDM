@@ -42,3 +42,5 @@ Com base no exemplo apresentado na apostila, foram realizadas algumas melhorias 
 ## Descrição
 **Objetivo:**   
 O aplicativo tem como objetivo proporcionar uma experiência interativa de desenho para o usuário, permitindo que ele explore sua criatividade por meio da pintura digital. Desenvolvido com foco no aprendizado, o app demonstra na prática conceitos importantes da programação, como o uso de eventos de toque, manipulação de cores e interação com componentes gráficos. Além disso, busca tornar a experiência mais dinâmica e intuitiva, oferecendo uma interface simples e de fácil utilização.
+
+**Funcionamento:**   
