@@ -32,7 +32,7 @@ Com base no exemplo apresentado na apostila, foram realizadas algumas melhorias 
 ## Print da tela do Design
 ![Desing do aplicativo](imagens/screen1.png)
 
-## Print da tela dos blocos
+## Print da tela dos Blocos
 ![Blocos de programação](imagens/blocos1.png)
 
 ---
@@ -51,3 +51,5 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 ## Print da tela do Design
 ![Desing do aplicativo](imagens/screen2.png)
+
+## Print da tela dos Blocos
