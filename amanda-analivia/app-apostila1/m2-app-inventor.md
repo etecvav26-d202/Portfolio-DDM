@@ -111,3 +111,5 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modifica√ß√
 
 ## Print das telas do Design
 ![Desing do aplicativo](imagens/screen5_1.png)![Design do aplicativo](imagens/screen5_2.png)![Desing do aplicativo](imagens/screen5_3.png)
+
+## Print da tela dos Blocos
