@@ -45,3 +45,5 @@ O aplicativo tem como objetivo proporcionar uma experiência interativa de desen
 
 **Funcionamento:**   
 O funcionamento do aplicativo baseia-se na interação do usuário com os botões de cores e a área de desenho. Ao selecionar uma das opções disponíveis — rosa, verde, azul ou laranja — a cor do pincel é alterada conforme a escolha. Em seguida, ao arrastar o dedo sobre a área de pintura, o aplicativo registra o movimento e desenha linhas contínuas na tela, criando o efeito de desenho livre. Caso o usuário deseje recomeçar, o botão “Limpar” permite apagar todo o conteúdo desenhado, deixando a área pronta para uma nova criação. Dessa forma, o aplicativo responde em tempo real aos comandos do usuário, demonstrando de maneira prática o funcionamento de eventos e interações em aplicações mobile.
+
+**Modificações feitas diante da apostila:**   
