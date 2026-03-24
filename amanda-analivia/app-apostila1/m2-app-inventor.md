@@ -120,3 +120,5 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 # Projeto 6 – Sexto Aplicativo (pg. 82)
 
 ## Descrição
+**Objetivo:**   
+
