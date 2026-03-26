@@ -11,7 +11,7 @@ Informática para Internet
 
 **`Autores:`**
 - [Amanda Neves Oliveira](https://github.com/amandanevoli)
-- Ana Lívia Takeyama Romanato
+- [Ana Lívia Takeyama Romanato](https://github.com/liviatakeyama)
 
 ---
 
