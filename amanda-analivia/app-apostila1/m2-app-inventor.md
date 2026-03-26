@@ -104,7 +104,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 O aplicativo tem como objetivo apresentar a navegação entre diferentes telas dentro de um sistema mobile, permitindo ao usuário acessar conteúdos distintos de forma organizada. Ele busca demonstrar como estruturar um aplicativo com múltiplas interfaces, tornando a experiência mais completa e interativa.
 
 **Funcionamento:**   
-
+O funcionamento do aplicativo ocorre por meio de botões que direcionam o usuário para diferentes telas. Na tela inicial, é possível selecionar entre duas opções, que levam a conteúdos distintos. Ao clicar em cada botão, o aplicativo abre uma nova tela correspondente, exibindo imagens específicas. Além disso, cada tela possui opções para retornar à tela inicial, permitindo uma navegação simples, organizada e intuitiva entre as diferentes seções do aplicativo.
 
 **Modificações feitas diante da apostila:**   
 
