@@ -81,7 +81,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 ## Descrição
 **Objetivo:**   
-
+O aplicativo tem como objetivo demonstrar o uso da câmera do dispositivo móvel, permitindo capturar imagens e exibi-las diretamente na tela. Ele foi desenvolvido para exemplificar a integração entre o aplicativo e os recursos do aparelho, facilitando o entendimento sobre como utilizar componentes nativos em aplicações.
 
 **Funcionamento:**   
 
