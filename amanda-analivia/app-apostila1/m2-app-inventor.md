@@ -2,11 +2,11 @@
 
 ---
 
-## Instituição: ETEC Vasco Antônio Venchiarutti
-## Curso: Informática para Internet
-## Turma: 2º ano D
+Instituição: ETEC Vasco Antônio Venchiarutti
+Curso: Informática para Internet
+Turma: 2º ano D
 
-## Autores
+`Autores`
 - Amanda Neves Oliveira
 - Ana Lívia Takeyama Romanato
 
