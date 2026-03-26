@@ -66,7 +66,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 | Print da tela do Design | Print da tela dos Blocos |
 |----|---|
-| ![Desing do aplicativo](imagens/blocos3.png) | ![Blocos de programação](imagens/blocos3.png) |
+| ![Desing do aplicativo](imagens/screen3.png) | ![Blocos de programação](imagens/blocos3.png) |
 
 ---
 
