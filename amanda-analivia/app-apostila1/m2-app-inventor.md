@@ -64,7 +64,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 O aplicativo tem como objetivo demonstrar a utilização de recursos multimídia em dispositivos móveis, integrando som e vibração para criar uma interação mais dinâmica com o usuário. Ele busca exemplificar, de forma prática, como eventos de clique podem acionar diferentes funcionalidades do aparelho, tornando a experiência mais realista e interativa.
 
 **Funcionamento:**   
-
+O funcionamento do aplicativo ocorre a partir do clique em cima da imagem apresentada na tela.. Ao ser apetado, o sistema aciona simultaneamente a reprodução de um som e a vibração do dispositivo por um determinado período de tempo. Dessa forma, o usuário percebe uma resposta imediata tanto auditiva quanto sensorial, simulando o funcionamento de um objeto real, como um liquidificador.
 
 **Modificações feitas diante da apostila:**   
 
