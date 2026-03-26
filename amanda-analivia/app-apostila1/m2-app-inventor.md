@@ -101,7 +101,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 ## Descrição
 **Objetivo:**   
-
+O aplicativo tem como objetivo apresentar a navegação entre diferentes telas dentro de um sistema mobile, permitindo ao usuário acessar conteúdos distintos de forma organizada. Ele busca demonstrar como estruturar um aplicativo com múltiplas interfaces, tornando a experiência mais completa e interativa.
 
 **Funcionamento:**   
 
