@@ -82,11 +82,9 @@ O funcionamento do aplicativo baseia-se na interação com dois botões principa
 **Modificações feitas diante da apostila:**   
 Com base no modelo apresentado na apostila, foram realizadas algumas modificações na interface do aplicativo com o objetivo de torná-la mais personalizada e visualmente mais atrativa. Houve alteração na fonte utilizada, tornando o texto mais agradável visualmente. A cor dos botões foi modificada para um tom de rosa bebê, além de terem sido ajustados com bordas arredondadas. Também foi realizado o aumento do tamanho da fonte, proporcionando melhor leitura e acessibilidade ao usuário.
 
-## Print da tela do Design
-![Desing do aplicativo](imagens/screen4.png)
-
-## Print da tela dos Blocos
-![Blocos de programação](imagens/blocos4.png)
+| Print da tela do Design | Print da tela dos Blocos |
+|----|---|
+| ![Desing do aplicativo](imagens/screen4.png) | ![Blocos de programação](imagens/blocos4.png) |
 
 ---
 
