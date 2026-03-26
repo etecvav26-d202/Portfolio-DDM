@@ -48,7 +48,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 | Print da tela do Design | Print da tela dos Blocos |
 |----|---|
-| ![Desing do aplicativo](amanda-analivia/app-apostila1/imagens/screen2.png) | ![Blocos de programação](amanda-analivia/app-apostila1/imagens/blocos2.png) |
+| ![Desing do aplicativo](imagens/screen2.png) | ![Blocos de programação](imagens/blocos2.png) |
 
 ---
 
