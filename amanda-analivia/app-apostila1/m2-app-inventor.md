@@ -100,11 +100,9 @@ O funcionamento do aplicativo ocorre por meio de botões que direcionam o usuár
 **Modificações feitas diante da apostila:**   
 Com base no modelo apresentado na apostila, foram realizadas algumas modificações na interface do aplicativo com o objetivo de torná-la mais personalizada e visualmente mais atrativa. As imagens de fundo das três telas foram modificadas, trazendo uma identidade visual mais personalizada. Os botões também passaram por ajustes, recebendo bordas arredondadas e novas cores. Além disso, a cor da barra da tela inicial foi alterada, contribuindo para um design mais harmonioso.
 
-## Print das telas do Design
-![Desing do aplicativo](imagens/screen5_1.png)![Design do aplicativo](imagens/screen5_2.png)![Desing do aplicativo](imagens/screen5_3.png)
-
-## Print da tela dos Blocos
-![Blocos de programação](imagens/blocos5.png)
+| Print da tela 1 do Design | Print da tela 2 do Design | Print da tela 3 do Design | Print da tela dos Blocos |
+|----|----|----|----|
+| ![Desing do aplicativo](imagens/screen5_1.png) | ![Desing do aplicativo](imagens/screen5_2.png) | ![Desing do aplicativo](imagens/screen5_3.png) | ![Blocos de programação](imagens/blocos4.png) |
 
 ---
 
