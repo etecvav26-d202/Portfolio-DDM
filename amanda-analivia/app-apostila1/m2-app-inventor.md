@@ -67,7 +67,7 @@ O aplicativo tem como objetivo demonstrar a utilização de recursos multimídia
 O funcionamento do aplicativo ocorre a partir do clique em cima da imagem apresentada na tela.. Ao ser apetado, o sistema aciona simultaneamente a reprodução de um som e a vibração do dispositivo por um determinado período de tempo. Dessa forma, o usuário percebe uma resposta imediata tanto auditiva quanto sensorial, simulando o funcionamento de um objeto real, como um liquidificador.
 
 **Modificações feitas diante da apostila:**   
-
+Com base no modelo apresentado na apostila, foram realizadas algumas modificações na interface do aplicativo com o objetivo de torná-la mais personalizada e visualmente mais atrativa. A imagem original foi substituída por outra mais adequada ao contexto proposto. Além disso, o som utilizado também foi alterado, proporcionando uma experiência mais coerente com a proposta do aplicativo.
 
 ## Print da tela do Design
 ![Desing do aplicativo](imagens/screen3.png)
