@@ -121,7 +121,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 ## Descrição
 **Objetivo:**   
-
+O aplicativo tem como objetivo demonstrar a manipulação de entrada de dados do usuário, permitindo a personalização de mensagens exibidas na tela. Ele foi desenvolvido para exemplificar como capturar informações digitadas e utilizá-las de forma dinâmica dentro do aplicativo.
 
 **Funcionamento:**   
 
