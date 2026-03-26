@@ -118,8 +118,6 @@ O funcionamento do aplicativo baseia-se na interação com uma caixa de texto e 
 **Modificações feitas diante da apostila:**   
 Com base no modelo apresentado na apostila, foram realizadas algumas modificações na interface do aplicativo com o objetivo de torná-la mais personalizada e visualmente mais atrativa. A cor de fundo do botão foi modificada, tornando-o mais destacado na tela. Também foram ajustados o texto do botão e a mensagem exibida ao usuário, deixando o aplicativo mais personalizado e alinhado com a proposta visual adotada.
 
-## Print das telas do Design
-![Desing do aplicativo](imagens/screen6.png)
-
-## Print da tela dos Blocos
-![Blocos de programação](imagens/blocos6.png)
+| Print da tela do Design | Print da tela dos Blocos |
+|----|---|
+| ![Desing do aplicativo](imagens/screen6.png) | ![Blocos de programação](imagens/blocos6.png) |
