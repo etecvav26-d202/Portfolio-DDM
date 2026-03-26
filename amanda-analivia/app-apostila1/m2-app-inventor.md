@@ -1,10 +1,10 @@
 # Relatório dos Aplicativos
 
-## Instituição: 
+### Instituição: 
 `ETEC Vasco Antônio Venchiarutti`
-## Curso:
+### Curso:
 `Informática para Internet`
-## Turma:
+### Turma:
 `2º ano D`
 
 ## Autores:
