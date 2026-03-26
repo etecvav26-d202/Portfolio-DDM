@@ -1,16 +1,18 @@
 # Relatório dos Aplicativos
 
+<<<<<<< HEAD
 ## Instituição
 Etec Vasco Antônio Venchiarutti
+=======
+---
 
-## Curso
-Informática para Internet
+Instituição: ETEC Vasco Antônio Venchiarutti
+Curso: Informática para Internet
+Turma: 2º ano D
+>>>>>>> a3a1f0a0617ee5c979eaa2e53df15c61929f5a46
 
-## Turma
-2º ano D
-
-## Autores
-- Amanda Neves Oliveira
+`Autores`
+- [Amanda Neves Oliveira](https://github.com/amandanevoli)
 - Ana Lívia Takeyama Romanato
 
 ---
@@ -27,11 +29,10 @@ O funcionamento do aplicativo é baseado em eventos de clique nos botões presen
 **Modificações feitas diante da apostila:**   
 Com base no exemplo apresentado na apostila, foram realizadas algumas melhorias na interface do aplicativo com o objetivo de torná-la mais organizada e moderna. Entre as alterações feitas, destaca-se a substituição da imagem original por outra mais adequada à proposta do aplicativo, contribuindo para uma melhor apresentação visual. Além disso, houve o aumento do tamanho da fonte, facilitando a leitura e proporcionando maior acessibilidade ao usuário. Também foram modificadas as cores dos botões, deixando-os mais harmônicos e atrativos, o que melhora a experiência de navegação e interação dentro do aplicativo.
 
-## Print da tela do Design
-![Desing do aplicativo](imagens/screen1.png)
 
-## Print da tela dos Blocos
-![Blocos de programação](imagens/blocos1.png)
+| Print da tela do Design | Print da tela dos Blocos |
+|----|---|
+| ![Desing do aplicativo](imagens/screen1.png) | ![Blocos de programação](imagens/blocos1.png) |
 
 ---
 
