@@ -61,7 +61,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 
 ## Descrição
 **Objetivo:**   
-
+O aplicativo tem como objetivo demonstrar a utilização de recursos multimídia em dispositivos móveis, integrando som e vibração para criar uma interação mais dinâmica com o usuário. Ele busca exemplificar, de forma prática, como eventos de clique podem acionar diferentes funcionalidades do aparelho, tornando a experiência mais realista e interativa.
 
 **Funcionamento:**   
 
