@@ -1,15 +1,8 @@
 # Relatório dos Aplicativos
 
-<<<<<<< HEAD
-## Instituição
-Etec Vasco Antônio Venchiarutti
-=======
----
-
-Instituição: ETEC Vasco Antônio Venchiarutti
+## Instituição: ETEC Vasco Antônio Venchiarutti
 Curso: Informática para Internet
 Turma: 2º ano D
->>>>>>> a3a1f0a0617ee5c979eaa2e53df15c61929f5a46
 
 `Autores`
 - [Amanda Neves Oliveira](https://github.com/amandanevoli)
