@@ -64,11 +64,9 @@ O funcionamento do aplicativo ocorre a partir do clique em cima da imagem aprese
 **Modificações feitas diante da apostila:**   
 Com base no modelo apresentado na apostila, foram realizadas algumas modificações na interface do aplicativo com o objetivo de torná-la mais personalizada e visualmente mais atrativa. A imagem original foi substituída por outra mais adequada ao contexto proposto. Além disso, o som utilizado também foi alterado, proporcionando uma experiência mais coerente com a proposta do aplicativo.
 
-## Print da tela do Design
-![Desing do aplicativo](imagens/screen3.png)
-
-## Print da tela dos Blocos
-![Blocos de programação](imagens/blocos3.png)
+| Print da tela do Design | Print da tela dos Blocos |
+|----|---|
+| ![Desing do aplicativo](imagens/blocos3.png) | ![Blocos de programação](imagens/blocos3.png) |
 
 ---
 
