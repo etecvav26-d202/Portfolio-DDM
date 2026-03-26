@@ -3,7 +3,7 @@
 ---
 
 ## Instituição
-Etec Vasco Antônio Venchiarutti
+ETEC Vasco Antônio Venchiarutti
 
 ## Curso
 Informática para Internet
