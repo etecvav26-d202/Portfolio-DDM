@@ -127,7 +127,7 @@ O aplicativo tem como objetivo demonstrar a manipulação de entrada de dados do
 O funcionamento do aplicativo baseia-se na interação com uma caixa de texto e um botão. O usuário pode digitar qualquer conteúdo na área indicada e, ao pressionar o botão, o aplicativo combina esse texto com uma mensagem pré-definida, exibindo o resultado em uma legenda na tela. Dessa forma, o sistema responde diretamente à entrada do usuário, demonstrando na prática como ocorre a manipulação de dados em aplicações móveis.
 
 **Modificações feitas diante da apostila:**   
-
+Com base no modelo apresentado na apostila, foram realizadas algumas modificações na interface do aplicativo com o objetivo de torná-la mais personalizada e visualmente mais atrativa. A cor de fundo do botão foi modificada, tornando-o mais destacado na tela. Também foram ajustados o texto do botão e a mensagem exibida ao usuário, deixando o aplicativo mais personalizado e alinhado com a proposta visual adotada.
 
 ## Print das telas do Design
 ![Desing do aplicativo](imagens/screen6.png)
