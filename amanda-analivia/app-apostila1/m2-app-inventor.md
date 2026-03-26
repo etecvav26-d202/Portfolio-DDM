@@ -9,7 +9,7 @@ Informática para Internet
 **`Turma:`**
 2º ano D
 
-## Autores:
+**`Autores:`**
 - [Amanda Neves Oliveira](https://github.com/amandanevoli)
 - Ana Lívia Takeyama Romanato
 
