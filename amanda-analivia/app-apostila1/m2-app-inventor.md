@@ -84,7 +84,7 @@ Com base no modelo apresentado na apostila, foram realizadas algumas modificaç�
 O aplicativo tem como objetivo demonstrar o uso da câmera do dispositivo móvel, permitindo capturar imagens e exibi-las diretamente na tela. Ele foi desenvolvido para exemplificar a integração entre o aplicativo e os recursos do aparelho, facilitando o entendimento sobre como utilizar componentes nativos em aplicações.
 
 **Funcionamento:**   
-
+O funcionamento do aplicativo baseia-se na interação com dois botões principais. Ao clicar no botão “Tirar Foto”, o aplicativo aciona a câmera do dispositivo, permitindo ao usuário capturar uma imagem. Após o registro, a foto tirada é automaticamente exibida na tela do aplicativo. Já o botão “Fechar” tem a função de encerrar a tela atual, finalizando a utilização do aplicativo.
 
 **Modificações feitas diante da apostila:**   
 
