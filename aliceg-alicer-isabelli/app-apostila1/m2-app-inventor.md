@@ -45,3 +45,5 @@ Informática para Internet
 **Funcionamento:** O aplicativo funciona a partir da interação do usuário com os botões de cores e a área de desenho. Ao clicar em um dos botões, o sistema altera a cor de pintura, permitindo que o usuário escolha com qual cor deseja desenhar. Em seguida, ao arrastar o dedo sobre a tela, o aplicativo responde desenhando linhas na imagem, acompanhando o movimento realizado.
 
 Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga todos os desenhos feitos, deixando a área novamente em branco. Dessa forma, o funcionamento do aplicativo se baseia nas ações do usuário, que escolhe a cor, desenha na tela e pode reiniciar o desenho quando desejar.
+
+**Mudanças:** Foram feitas mudanças no tamanho da imagem, ajustando altura e largura para “preencher principal”, fazendo com que ela ocupasse melhor a tela. Também houve uma melhora no alinhamento dos elementos, deixando os botões e a imagem mais organizados. Além disso, as cores foram alteradas, deixando o aplicativo mais chamativo e com um visual melhor.
