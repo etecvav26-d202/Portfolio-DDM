@@ -43,3 +43,9 @@ Em relação aos recursos e componentes utilizados, o aplicativo faz uso de bot�
 
 **Melhorias em relação ao conteúdo abordado na apostila:**   
 Comparando com os exemplos apresentados na apostila, que abordavam principalmente a troca de telas e a utilização de botões para exibir legendas simples, o aplicativo desenvolvido apresenta melhorias significativas. Foram adicionados novos recursos, como o armazenamento permanente de dados utilizando o TinyDB e a organização dessas informações em listas, o que torna o aplicativo mais completo e funcional. Além disso, a proposta de interação foi ampliada, oferecendo não apenas respostas visuais, mas também uma experiência mais envolvente e útil para o usuário. Essas melhorias demonstram uma evolução em relação aos exemplos iniciais, incorporando novos conceitos e ampliando as possibilidades de uso do aplicativo.
+
+## Prints das telas do Design e dos Blocos
+
+| Print da tela do Design | Print da tela dos Blocos |
+|------|------|
+| ![Desing do aplicativo](imagens/screen1.png) | ![Blocos de programação](imagens/blocos_screen1.png) |
