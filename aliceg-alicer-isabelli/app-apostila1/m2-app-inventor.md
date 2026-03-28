@@ -83,3 +83,11 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
 ## Descrição
+
+​O projeto é um utilitário de captura de imagem desenvolvido em uma plataforma de programação por blocos.
+
+**Interface:** Apresenta uma tela minimalista com o título "Camêra", uma grande área central para exibição de fotos e dois botões inferiores: TirarFoto e Fechar.
+
+**​Disparo:** O botão "TirarFoto" ativa a câmera nativa do celular.
+
+**​Processamento:** Após a captura, o bloco DepoisDeFotografar identifica o arquivo da foto e o projeta na tela do app (Imagem1).
