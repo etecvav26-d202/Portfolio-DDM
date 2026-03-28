@@ -71,3 +71,5 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 **​Áudio:** Ativa o componente Som1 para reproduzir o ruído do motor.
 
 **​Vibração:** Aciona o motor de vibração do celular por 3000 milissegundos (3 segundos).
+
+## Print das telas do Design
