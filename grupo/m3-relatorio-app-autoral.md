@@ -37,3 +37,6 @@ O funcionamento do aplicativo é bastante intuitivo. Ao abrir a aplicação, o u
 
 **Conceitos da apostila utilizados:**   
 Durante o desenvolvimento do aplicativo, foram aplicados conceitos abordados na apostila. Entre eles, destaca-se o uso de eventos, especialmente na programação dos botões, que executam ações específicas quando clicados. Também foi utilizada a troca de telas, permitindo a navegação entre a tela principal e a tela de histórico. Outro ponto importante foi a exibição dinâmica de textos na interface, que muda de acordo com a interação do usuário.
+
+**Recursos e componentes utilizados:**   
+Em relação aos recursos e componentes utilizados, o aplicativo faz uso de botões para capturar a interação do usuário, rótulos para exibir mensagens, arranjos horizontais e verticais para organizar melhor os elementos na tela, além de um visualizador de lista para apresentar o histórico de forma clara. Também foi utilizado o componente de banco de dados interno, conhecido como TinyDB, que permite armazenar e recuperar os dados mesmo após o fechamento do aplicativo. A adição de imagens contribui para tornar a interface mais atrativa e amigável, melhorando a experiência do usuário.
