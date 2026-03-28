@@ -41,3 +41,6 @@ Informática para Internet
 ## Descrição
 
 **Objetivo:** Desenvolver um aplicativo que permita ao usuário selecionar diferentes cores e utilizá-las para pintar sobre uma imagem na tela, possibilitando a interação direta com a interface e a manipulação de elementos visuais. O aplicativo também conta com um botão de limpar, responsável por apagar os traços realizados na imagem, permitindo reiniciar a atividade.
+
+**Funcionamento:** O aplicativo funciona a partir da interação do usuário com os botões de cores e a área de desenho. Ao clicar em um dos botões, o sistema altera a cor de pintura, permitindo que o usuário escolha com qual cor deseja desenhar. Em seguida, ao arrastar o dedo sobre a tela, o aplicativo responde desenhando linhas na imagem, acompanhando o movimento realizado.
+Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga todos os desenhos feitos, deixando a área novamente em branco. Dessa forma, o funcionamento do aplicativo se baseia nas ações do usuário, que escolhe a cor, desenha na tela e pode reiniciar o desenho quando desejar.
