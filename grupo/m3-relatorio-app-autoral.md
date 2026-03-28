@@ -24,3 +24,10 @@
 
 ## Título
 **MoodDay**
+
+---
+
+## Descrição
+
+**Objetivo:**   
+O aplicativo **MoodDay** tem como principal objetivo proporcionar ao usuário uma forma simples, rápida e interativa de registrar **como está se sentindo ao longo do dia**. A proposta vai além de apenas selecionar um humor, pois o aplicativo também busca incentivar o bem-estar emocional por meio de mensagens motivacionais exibidas conforme a escolha feita. Dessa forma, o usuário consegue não só expressar seus sentimentos, mas também receber um pequeno incentivo positivo, tornando a experiência mais acolhedora e personalizada.
