@@ -16,7 +16,7 @@
 - [Alice Rasmussen Rezende Alves](https://github.com/alicerez0703)
 - [Amanda Neves Oliveira](https://github.com/amandanevoli)
 - [Ana Lívia Takeyama Romanato](https://github.com/liviatakeyama)
-- [isabelli Dias da Silva](https://github.com/isabelbelli)
+- [Isabelli Dias da Silva](https://github.com/isabelbelli)
 
 ---
 
