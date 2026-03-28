@@ -58,7 +58,7 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
 
-# Descrição
+## Descrição
 
 ​O projeto consiste em um simulador interativo desenvolvido em uma plataforma de programação por blocos (como MIT App Inventor).
 
@@ -82,3 +82,4 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 # Projeto 4 – Quarto Aplicativo (pg. 64)
 
+## Descrição
