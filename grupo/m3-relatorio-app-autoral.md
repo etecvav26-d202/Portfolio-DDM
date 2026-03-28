@@ -3,4 +3,4 @@
 ---
 
 ## Instiuição
-´ETEC Vasco Antônio Venchiarutti´
+`ETEC Vasco Antônio Venchiarutti`
