@@ -101,3 +101,6 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 ## Print das telas dos Blocos
 ![Blocos do aplicativo](imagens/blocoapp4.png)
+
+---
+
