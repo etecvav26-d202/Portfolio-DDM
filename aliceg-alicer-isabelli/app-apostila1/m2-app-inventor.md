@@ -59,3 +59,15 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 # Projeto 3 – Terceiro Aplicativo (pg. 56)
 
 # Descrição
+
+​O projeto consiste em um simulador interativo desenvolvido em uma plataforma de programação por blocos (como MIT App Inventor).
+
+**Interface:** Possui uma tela simples com o título "Liquidificador" e uma imagem central de um liquidificador verde.
+
+**​Objetivo:** Criar uma experiência de "causa e efeito", onde o usuário sente o aparelho "ligar" através de som e toque simultâneos.
+
+**Funcionamento:** O aplicativo utiliza um evento de clique (Botão1.Clique) para disparar ações sensoriais.
+
+*​Áudio:* Ativa o componente Som1 para reproduzir o ruído do motor.
+
+**​Vibração:** Aciona o motor de vibração do celular por 3000 milissegundos (3 segundos).
