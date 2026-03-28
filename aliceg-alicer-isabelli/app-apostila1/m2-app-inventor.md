@@ -95,3 +95,5 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 **​Processamento:** Após a captura, o bloco DepoisDeFotografar identifica o arquivo da foto e o projeta na tela do app (Imagem1).
 
 **​Saída:** O botão "Fechar" encerra a atividade da tela atual.
+
+## Print das telas do Design
