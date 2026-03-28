@@ -27,3 +27,7 @@ Informática para Internet
 **Funcionamento:** O aplicativo funciona a partir da interação do usuário com os botões da tela. Quando o usuário clica no botão “Botão1”, o sistema responde exibindo a mensagem “Olá Mundo” na legenda. Já ao clicar no botão “Limpar”, o sistema remove o texto exibido, deixando a legenda em branco. Dessa forma, cada ação do usuário gera uma resposta imediata da interface do aplicativo.
 
 **Mudanças:** Foram realizadas algumas modificações em relação ao modelo apresentado no material, principalmente na personalização da interface. No aplicativo desenvolvido, houve alteração nas cores dos componentes, deixando o visual diferente do padrão apresentado. Também foram feitos ajustes nas propriedades dos elementos, como o tamanho da fonte e a organização dos componentes na tela, proporcionando uma aparência mais adequada. Essas mudanças diferenciam o aplicativo do modelo inicial, tornando a interface mais personalizada e adaptada.
+
+## Print das telas do Design
+![Desing do aplicativo](imagens/telaapp1.png)
+
