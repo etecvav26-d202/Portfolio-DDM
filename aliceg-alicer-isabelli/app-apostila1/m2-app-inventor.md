@@ -97,3 +97,6 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 **​Saída:** O botão "Fechar" encerra a atividade da tela atual.
 
 ## Print das telas do Design
+![Desing do aplicativo](imagens/telaapp4.png)
+
+
