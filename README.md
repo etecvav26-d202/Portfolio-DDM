@@ -31,8 +31,6 @@ Informática para Internet
 
 2026
 
----
-
 ## 📌 Descrição
 
 Este repositório contém as **atividades, exercícios e projetos desenvolvidos na disciplina de Desenvolvimento de Dispositivos Móveis.** O objetivo é aplicar conceitos de programação mobile, criação de interfaces e lógica de aplicativos.
