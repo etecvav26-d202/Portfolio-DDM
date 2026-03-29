@@ -113,3 +113,7 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 ## Print das telas dos Blocos
 ![Blocos do aplicativo](imagens/blocoapp5.png)
+
+---
+
+# Projeto 6 – Sexto Aplicativo (pg. 82)
