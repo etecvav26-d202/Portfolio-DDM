@@ -108,6 +108,10 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 ## Descrição
 
+**Objetivo:** Usar o App Inventor para desenvolver um aplicativo mobile que permita navegar em duas telas diferentes, utilizando blocos de programação. O sistema permite que o usuário interaja com a interface e acesse telas diferentes, compreendendo como ocorre o funcionamento da troca de telas dentro da aplicação.
+
+**Funcionamento:** O aplicativo funciona a partir da interação do usuário com os botões presentes na tela inicial. Ao clicar em um dos botões, o sistema realiza a ação de abrir uma nova tela. Em cada tela (Screen1 e Screen2) , há botões programados que permitem retornar à tela inicial ou ir para outras telas. Dessa forma, cada clique do usuário gera uma mudança de tela, permitindo a navegação dentro do aplicativo.
+
 ## Print das telas do Design
 ![Desing do aplicativo](imagens/telaapp5.png)
 
