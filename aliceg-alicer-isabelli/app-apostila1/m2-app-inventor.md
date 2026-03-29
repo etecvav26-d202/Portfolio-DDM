@@ -130,6 +130,8 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 **Funcionamento:** O aplicativo funciona a partir da interação do usuário com a caixa de texto e o botão presentes na tela. Ao digitar um nome e clicar no botão, o sistema captura o texto e o combina com uma mensagem definida, mostrando o resultado na legenda. Dessa forma, cada ação do usuário gera uma resposta imediata da interface do aplicativo.
 
+**Modificações:** O aplicativo foi modificado para um tema de vôlei. Foi adicionada uma imagem de uma jogadora de vôlei e, na caixa de texto, o usuário digita seu nome. Ao clicar no botão, a mensagem não mostra só “olá”, mas também adiciona no final “jogadora de vôlei”. Isso deixa o app mais personalizado e diferente do modelo original.
+
 ## Print das telas do Design
 ![Desing do aplicativo](imagens/telaapp6.png)
 
