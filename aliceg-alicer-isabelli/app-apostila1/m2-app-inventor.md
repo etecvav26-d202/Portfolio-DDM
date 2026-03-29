@@ -112,6 +112,8 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 **Funcionamento:** O aplicativo funciona a partir da interação do usuário com os botões presentes na tela inicial. Ao clicar em um dos botões, o sistema realiza a ação de abrir uma nova tela. Em cada tela (Screen1 e Screen2) , há botões programados que permitem retornar à tela inicial ou ir para outras telas. Dessa forma, cada clique do usuário gera uma mudança de tela, permitindo a navegação dentro do aplicativo.
 
+**Modificações:** Foram realizadas algumas modificações em relação ao modelo apresentado na apostila, principalmente na personalização da interface. No aplicativo desenvolvido, foram adicionadas imagens de diferentes tartarugas nas telas, deixando o visual diferente do padrão apresentado.
+
 ## Print das telas do Design
 ![Desing do aplicativo](imagens/telaapp5.png)
 
