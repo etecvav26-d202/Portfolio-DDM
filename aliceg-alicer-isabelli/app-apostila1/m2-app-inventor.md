@@ -124,6 +124,10 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 ## Descrição
 
+**Objetivo:** Usar o App Inventor para desenvolver um aplicativo mobile. Ele demonstra o uso de entrada de dados pelo teclado, utilizando caixa de texto, botão e legenda. O sistema permite que o usuário insira o seu nome e visualize uma mensagem personalizada na tela, compreendendo a interação com componentes de entrada e saída de dados na interface.
+
+**Funcionamento:** O aplicativo funciona a partir da interação do usuário com a caixa de texto e o botão presentes na tela. Ao digitar um nome e clicar no botão, o sistema captura o texto e o combina com uma mensagem definida, mostrando o resultado na legenda. Dessa forma, cada ação do usuário gera uma resposta imediata da interface do aplicativo.
+
 ## Print das telas do Design
 ![Desing do aplicativo](imagens/telaapp6.png)
 
