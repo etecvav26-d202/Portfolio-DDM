@@ -85,17 +85,17 @@ O funcionamento do aplicativo é regido por uma lógica de sincronização que c
 
 ## Descrição
 
-​O projeto é um utilitário de captura de imagem desenvolvido em uma plataforma de programação por blocos.
+​**Objetivo:** O App "Câmera" é uma ferramenta utilitária desenvolvida em uma plataforma de programação visual por blocos (como o MIT App Inventor). Seu propósito principal é oferecer uma interface personalizada para a captura e visualização imediata de fotografias, utilizando os recursos de hardware do dispositivo móvel.
 
-**Interface:** Apresenta uma tela minimalista com o título "Camêra", uma grande área central para exibição de fotos e dois botões inferiores: TirarFoto e Fechar.
+A interface do aplicativo é projetada de forma minimalista para focar na funcionalidade de imagem. No topo, a barra de título identifica o projeto como "Camêra". O corpo central da tela é composto por um componente de exibição (Imagem1). Inicialmente, este espaço aparece vazio, servindo como um "canvas" aguardando o conteúdo. Na base da tela, encontram-se dois botões de comando estrategicamente posicionados: "TirarFoto" e "Fechar". O fluxo de uso é intuitivo: o usuário aciona o comando, tira a foto e a vê aparecer instantaneamente no centro da tela, sem precisar navegar por galerias externas.
 
-**​Objetivo:** Permitir que o usuário tire fotos e as visualize imediatamente dentro da interface personalizada do aplicativo.
+**Arquitetura Lógica (Programação por Blocos):** O funcionamento do aplicativo é regido por três eventos principais que conectam os botões às funções do sistema Android:
+- Evento de Disparo (Tirar_Foto.Clique): Ao tocar neste botão, o aplicativo executa a função Câmera1.TirarFotografia. Isso faz com que o app saia momentaneamente do primeiro plano para abrir a interface da câmera nativa do celular.
+- Evento de Retorno (Câmera1.DepoisDeFotografar): Este é o bloco de inteligência do app. Assim que o usuário confirma a foto tirada, o aplicativo captura o caminho desse arquivo (obter imagem) e atualiza automaticamente a propriedade visual do componente Imagem1. É este bloco que permite que a foto do notebook (ou qualquer outra) apareça preenchendo a tela do app.
+- Evento de Navegação (Fechar.Clique): Um comando simples de controle que utiliza o bloco fechar tela para encerrar a atividade atual, garantindo que o usuário possa sair do utilitário de forma direta.
 
-**​Disparo:** O botão "TirarFoto" ativa a câmera nativa do celular.
+**Conclusão:** O aplicativo demonstra uma aplicação prática e eficiente de integração de hardware (câmera) com interface de software. Ele resolve o problema de visualização rápida, permitindo que registros fotográficos sejam feitos e conferidos dentro de um único ambiente controlado.
 
-**​Processamento:** Após a captura, o bloco DepoisDeFotografar identifica o arquivo da foto e o projeta na tela do app (Imagem1).
-
-**​Saída:** O botão "Fechar" encerra a atividade da tela atual.
 
 ## Print das telas do Design
 ![Desing do aplicativo](imagens/telaapp4.png)
