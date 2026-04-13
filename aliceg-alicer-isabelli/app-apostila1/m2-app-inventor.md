@@ -60,17 +60,18 @@ Além disso, o aplicativo possui um botão de limpar que, ao ser acionado, apaga
 
 ## Descrição
 
-​O projeto consiste em um simulador interativo desenvolvido em uma plataforma de programação por blocos (como MIT App Inventor).
+**​Objetivo:** O App "Liquidificador" é uma ferramenta de simulação sensorial desenvolvida em uma plataforma de programação visual por blocos (como o MIT App Inventor). Seu propósito principal é reproduzir a experiência de uso de um aparelho real, utilizando os recursos de áudio e vibração do hardware móvel para criar uma resposta interativa. A interface do aplicativo é projetada de forma visual e direta. No topo, a barra de título identifica o projeto como "Liquidificador".
 
-**Interface:** Possui uma tela simples com o título "Liquidificador" e uma imagem central de um liquidificador verde.
+O corpo central da tela exibe uma ilustração estilizada de um liquidificador nas cores verde e amarelo, que funciona como o ponto focal da interação. Diferente de interfaces complexas, o design utiliza a própria imagem do aparelho como gatilho. O fluxo de uso é imediato: ao tocar na tela, o usuário recebe um feedback bimodal (som e toque), simulando a potência de um motor em funcionamento, o que torna a experiência lúdica e intuitiva.
 
-**​Objetivo:** Criar uma experiência de "causa e efeito", onde o usuário sente o aparelho "ligar" através de som e toque simultâneos.
+**Arquitetura Lógica (Programação por Blocos):**
+O funcionamento do aplicativo é regido por uma lógica de sincronização que conecta a interface aos atuadores do smartphone:
+- Evento de Ativação (Botão1.Clique): Ao detectar o toque no componente visual, o aplicativo dispara simultaneamente duas funções de hardware.
+- Emissão Sonora (Som1.Tocar): O aplicativo executa a reprodução de um arquivo de áudio pré-carregado que simula o ruído característico das lâminas e do motor do liquidificador.
+- Resposta Tátil (Som1.Vibrar): Para aumentar o realismo, o bloco de vibração é acionado com o parâmetro de 3000 milissegundos. Isso faz com que o aparelho vibre por 3 segundos, imitando a trepidação física de um eletrodoméstico real ligado à tomada.
 
-**Funcionamento:** O aplicativo utiliza um evento de clique (Botão1.Clique) para disparar ações sensoriais.
+**Conclusão:** O aplicativo demonstra uma aplicação criativa de como transformar um dispositivo móvel em um simulador de objetos do cotidiano. Ele utiliza com sucesso a integração entre estímulos visuais, auditivos e táteis para criar uma sensação de "causa e efeito" eficiente dentro de um ambiente digital simples.
 
-**​Áudio:** Ativa o componente Som1 para reproduzir o ruído do motor.
-
-**​Vibração:** Aciona o motor de vibração do celular por 3000 milissegundos (3 segundos).
 
 ## Print das telas do Design
 ![Desing do aplicativo](imagens/telaapp3.png)
