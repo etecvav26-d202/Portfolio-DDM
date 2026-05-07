@@ -49,6 +49,7 @@ O objetivo deste aplicativo foi aprender a utilizar o componente `ActivityStarte
 O aplicativo apresenta informações sobre o estádio Allianz Parque, contendo imagem, texto descritivo e um botão para visualização da localização. Ao clicar no botão, o componente `ActivityStarter` é acionado utilizando a ação `android.intent.action.VIEW` juntamente com coordenadas geográficas configuradas na propriedade `DataUri`. Assim, o aplicativo abre automaticamente o Google Maps, centralizando o mapa na localização definida e exibindo uma marcação no local.
 
 **Modificações feitas diante da apostila:**   
+Foram realizadas diversas modificações em relação ao exemplo apresentado na apostila. Em vez de utilizar as coordenadas da cidade de São Paulo de forma genérica, foi escolhida a localização do estádio Allianz Parque. Também foram adicionados elementos visuais personalizados, como imagem do estádio, logotipo do Palmeiras, cores temáticas em verde e textos informativos sobre o local. Além disso, o botão recebeu uma personalização visual para deixar a interface mais organizada e atrativa.
 
 
 
