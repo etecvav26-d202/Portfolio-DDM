@@ -46,7 +46,7 @@ Foram realizadas algumas modificações em relação ao modelo apresentado na ap
 O objetivo deste aplicativo foi aprender a utilizar o componente `ActivityStarter` para abrir mapas e realizar a localização de lugares específicos utilizando o Google Maps. O projeto também teve como finalidade compreender o funcionamento de coordenadas geográficas e da integração de aplicativos externos dentro do App Inventor.
 
 **Funcionamento:**   
-
+O aplicativo apresenta informações sobre o estádio Allianz Parque, contendo imagem, texto descritivo e um botão para visualização da localização. Ao clicar no botão, o componente `ActivityStarter` é acionado utilizando a ação `android.intent.action.VIEW` juntamente com coordenadas geográficas configuradas na propriedade `DataUri`. Assim, o aplicativo abre automaticamente o Google Maps, centralizando o mapa na localização definida e exibindo uma marcação no local.
 
 **Modificações feitas diante da apostila:**   
 
