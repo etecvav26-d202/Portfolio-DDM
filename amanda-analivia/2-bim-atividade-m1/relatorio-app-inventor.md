@@ -28,9 +28,9 @@ Informática para Internet
 
 
 
-| Print da Tela do Design (Navegador) | Print da Tela do Design (Emulador) | Print da Tela dos Blocos |
-| ---- | ---- | ---- |
-| ![Design do Aplicativo (Navegador)](imagens/design_app1.png) | ![Design do Aplicativo (Emulador)](imagens/design_phone1.png) | ![Blocos de programação](imagens/blocos1.png) |
+| Print da Tela do Design (Navegador) | Print da Tela do Design (Emulador) | Print da Tela Redirecionada | Print da Tela dos Blocos |
+| ---- | ---- | ---- | ---- |
+| ![Design do Aplicativo (Navegador)](imagens/design_app1.png) | ![Design do Aplicativo (Emulador)](imagens/design_phone1.png) | ---- | ![Blocos de programação](imagens/blocos1.png) |
 
 ---
 
@@ -50,4 +50,8 @@ Informática para Internet
 **Modificações feitas diante da apostila:**   
 
 
+
+| Print da Tela do Design (Navegador) | Print da Tela do Design (Emulador) | Print da Tela dos Blocos |
+| ---- | ---- | ---- |
+| ![Design do Aplicativo (Navegador)](imagens/design_app3.png) | ![Design do Aplicativo (Emulador)]() | ![Blocos de programação](imagens/blocos1.png) |
 
