@@ -22,7 +22,7 @@ Informática para Internet
 O objetivo deste aplicativo foi aprender a utilizar o componente `ActivityStarter` no App Inventor para realizar o redirecionamento do usuário para páginas da web externas. Além disso, o projeto teve como finalidade compreender o funcionamento de links externos dentro de aplicativos mobile e praticar a criação de interfaces simples.
 
 **Funcionamento:**   
-
+O aplicativo apresenta uma interface contendo imagem, texto informativo e um botão chamado “Abrir link Web”. Ao clicar no botão, o componente `ActivityStarter` é acionado utilizando a ação `android.intent.action.VIEW`, responsável por abrir conteúdos externos no navegador do dispositivo. Dessa forma, o usuário é redirecionado automaticamente para o site configurado na propriedade `DataUri`.
 
 **Modificações feitas diante da apostila:**   
 
