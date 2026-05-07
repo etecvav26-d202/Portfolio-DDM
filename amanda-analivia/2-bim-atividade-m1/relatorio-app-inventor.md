@@ -19,7 +19,7 @@ Informática para Internet
 
 ## Descrição
 **Objetivo:**   
-
+O objetivo deste aplicativo foi aprender a utilizar o componente `ActivityStarter` no App Inventor para realizar o redirecionamento do usuário para páginas da web externas. Além disso, o projeto teve como finalidade compreender o funcionamento de links externos dentro de aplicativos mobile e praticar a criação de interfaces simples.
 
 **Funcionamento:**   
 
