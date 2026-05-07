@@ -31,7 +31,7 @@ Foram realizadas algumas modificações em relação ao modelo apresentado na ap
 
 | Print da Tela do Design (Navegador) | Print da Tela do Design (Emulador) | Print da Tela Redirecionada | Print da Tela dos Blocos |
 | ---- | ---- | ---- | ---- |
-| ![Design do Aplicativo (Navegador)](imagens/design_app1.png) | ![Design do Aplicativo (Emulador)](imagens/design_phone1.png) | ---- | ![Blocos de programação](imagens/blocos1.png) |
+| ![Design do Aplicativo (Navegador)](imagens/design_app1.png) | ![Design do Aplicativo (Emulador)](imagens/design_phone1_1.png) | ![Desing da Tela Redirecionada](imagens/design_phone1_2.png) | ![Blocos de programação](imagens/blocos1.png) |
 
 ---
 
