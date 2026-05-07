@@ -16,7 +16,6 @@ Informática para Internet
 ---
 
 # Componentes Avançados - 1
-
 ---
 
 # Projeto 1 - Abrindo links web
