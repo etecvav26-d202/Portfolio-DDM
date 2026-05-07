@@ -25,6 +25,7 @@ O objetivo deste aplicativo foi aprender a utilizar o componente `ActivityStarte
 O aplicativo apresenta uma interface contendo imagem, texto informativo e um botão chamado “Abrir link Web”. Ao clicar no botão, o componente `ActivityStarter` é acionado utilizando a ação `android.intent.action.VIEW`, responsável por abrir conteúdos externos no navegador do dispositivo. Dessa forma, o usuário é redirecionado automaticamente para o site configurado na propriedade `DataUri`.
 
 **Modificações feitas diante da apostila:**   
+Foram realizadas algumas modificações em relação ao modelo apresentado na apostila. A interface foi personalizada com a adição de uma imagem ilustrativa, textos informativos sobre o vestibulinho e alterações visuais no botão, como mudança de cor e tamanho. Também foi utilizado um link diferente do exemplo original da apostila, adaptando o aplicativo para um contexto mais visual e informativo.
 
 
 
