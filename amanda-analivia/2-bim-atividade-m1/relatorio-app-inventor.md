@@ -43,7 +43,7 @@ Foram realizadas algumas modificações em relação ao modelo apresentado na ap
 
 ## Descrição
 **Objetivo:**   
-
+O objetivo deste aplicativo foi aprender a utilizar o componente `ActivityStarter` para abrir mapas e realizar a localização de lugares específicos utilizando o Google Maps. O projeto também teve como finalidade compreender o funcionamento de coordenadas geográficas e da integração de aplicativos externos dentro do App Inventor.
 
 **Funcionamento:**   
 
