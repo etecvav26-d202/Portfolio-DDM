@@ -37,6 +37,19 @@ Foram realizadas algumas modificações em relação ao modelo apresentado na ap
 
 # Projeto 2 - Envio de correios eletrônicos (Componentes Avançados - 1)
 
+## Descrição
+**Objetivo:**   
+
+
+**Funcionamento:**   
+
+
+**Modificações feitas diante da apostila:**   
+
+
+| Print da Tela do Design (Navegador) | Print da Tela do Design (Emulador) | Print da Tela Redirecionada | Print da Tela dos Blocos |
+| ---- | ---- | ---- | ---- |
+| ![Design do Aplicativo (Navegador)]() | ![Design do Aplicativo (Emulador)]() | ![Desing da Tela Redirecionada]() | ![Blocos de programação]() |
 
 --- 
 
