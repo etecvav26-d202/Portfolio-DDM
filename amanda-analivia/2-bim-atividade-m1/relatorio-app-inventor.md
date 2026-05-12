@@ -45,6 +45,7 @@ O objetivo deste aplicativo foi aprender a desenvolver um capaz de abrir automat
 O aplicativo apresenta uma interface simples contendo uma imagem ilustrativa, um texto informativo e um botão chamado “Enviar correio”. Ao clicar no botão, o sistema utiliza um componente de atividade para redirecionar o usuário ao aplicativo de e-mail instalado no celular, abrindo a tela de composição de mensagem para preenchimento do destinatário, assunto e conteúdo do e-mail.
 
 **Modificações feitas diante da apostila:**   
+Foram realizadas alterações visuais na interface do aplicativo para deixá-la mais organizada e intuitiva, incluindo mudança de cores, inserção de imagem personalizada e ajuste no posicionamento dos componentes. Também foi adaptado o texto exibido ao usuário e configurado o botão para iniciar corretamente a atividade de envio de e-mail utilizando os blocos do App Inventor.
 
 
 | Print da Tela do Design (Navegador) | Print da Tela do Design (Emulador) | Print da Tela Redirecionada | Print da Tela dos Blocos |
