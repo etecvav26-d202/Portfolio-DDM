@@ -39,7 +39,7 @@ Foram realizadas algumas modificações em relação ao modelo apresentado na ap
 
 ## Descrição
 **Objetivo:**   
-
+O objetivo deste aplicativo foi aprender a desenvolver um capaz de abrir automaticamente o aplicativo de e-mail do dispositivo para que o usuário possa enviar uma mensagem eletrônica de forma prática e rápida, utilizando o componente `ActivityStarter` para iniciar a ação de envio de e-mails diretamente pelo celular.
 
 **Funcionamento:**   
 
