@@ -78,7 +78,7 @@ Foram realizadas diversas modificações em relação ao exemplo apresentado na 
 
 ## Descrição
 **Objetivo:**   
-
+O objetivo dese aplicativo é realizar chamadas telefônicas por meio de um botão, utilizando o componente de ligação do sistema para abrir o discador do celular com o número configurado automaticamente. Na tabela de imagens, não foi possível testar completamente o funcionamento da chamada no emulador, pois não há um número telefônico vinculado ao emulador utilizado. Sendo assim, foi utilizado um celular para testar.
 
 **Funcionamento:**   
 
