@@ -1,4 +1,4 @@
-# Relatório dos App
+# Relatório dos Aplicativos
 
 **`Instituição:`**
 ETEC Vasco Antônio Venchiarutti
