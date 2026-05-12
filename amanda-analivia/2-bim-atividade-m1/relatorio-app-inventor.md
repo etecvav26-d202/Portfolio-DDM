@@ -42,7 +42,7 @@ Foram realizadas algumas modificações em relação ao modelo apresentado na ap
 O objetivo deste aplicativo foi aprender a desenvolver um capaz de abrir automaticamente o aplicativo de e-mail do dispositivo para que o usuário possa enviar uma mensagem eletrônica de forma prática e rápida, utilizando o componente `ActivityStarter` para iniciar a ação de envio de e-mails diretamente pelo celular.
 
 **Funcionamento:**   
-
+O aplicativo apresenta uma interface simples contendo uma imagem ilustrativa, um texto informativo e um botão chamado “Enviar correio”. Ao clicar no botão, o sistema utiliza um componente de atividade para redirecionar o usuário ao aplicativo de e-mail instalado no celular, abrindo a tela de composição de mensagem para preenchimento do destinatário, assunto e conteúdo do e-mail.
 
 **Modificações feitas diante da apostila:**   
 
