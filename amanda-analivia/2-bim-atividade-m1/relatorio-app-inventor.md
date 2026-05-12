@@ -87,4 +87,4 @@ Foram realizadas diversas modificações em relação ao exemplo apresentado na 
 
 | Print da Tela do Design (Navegador) | Print da Tela do Design (Emulador) | Print da Tela Redirecionada | Print da Tela dos Blocos |
 | ---- | ---- | ---- | ---- |
-| ![Design do Aplicativo (Navegador)](imagens/design_app4.png) | ![Design do Aplicativo (Emulador)]() | ![Desing da Tela Redirecionada]() | ![Blocos de programação](imagens/blocos4.png) |
+| ![Design do Aplicativo (Navegador)](imagens/design_app4.png) | ![Design do Aplicativo (Emulador)](imagens/design_phone4_1.jpeg) | ![Desing da Tela Redirecionada](imagens/design_phone4_2.jpeg) | ![Blocos de programação](imagens/blocos4.png) |
