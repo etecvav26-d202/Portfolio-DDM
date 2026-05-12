@@ -81,7 +81,7 @@ Foram realizadas diversas modificações em relação ao exemplo apresentado na 
 O objetivo dese aplicativo é realizar chamadas telefônicas por meio de um botão, utilizando o componente de ligação do sistema para abrir o discador do celular com o número configurado automaticamente. Na tabela de imagens, não foi possível testar completamente o funcionamento da chamada no emulador, pois não há um número telefônico vinculado ao emulador utilizado. Sendo assim, foi utilizado um celular para testar.
 
 **Funcionamento:**   
-
+O aplicativo apresenta uma interface semelhante a um teclado telefônico, contendo números, imagem ilustrativa e um botão de chamada. Ao clicar no botão “Chamada Telefônica”, o sistema utiliza o componente de ligação para abrir o aplicativo de telefone do dispositivo, direcionando automaticamente para a tela de chamada com o número previamente definido.
 
 **Modificações feitas diante da apostila:**   
 
