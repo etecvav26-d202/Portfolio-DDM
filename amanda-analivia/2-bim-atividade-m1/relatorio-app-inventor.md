@@ -84,6 +84,7 @@ O objetivo dese aplicativo é realizar chamadas telefônicas por meio de um bot�
 O aplicativo apresenta uma interface semelhante a um teclado telefônico, contendo números, imagem ilustrativa e um botão de chamada. Ao clicar no botão “Chamada Telefônica”, o sistema utiliza o componente de ligação para abrir o aplicativo de telefone do dispositivo, direcionando automaticamente para a tela de chamada com o número previamente definido.
 
 **Modificações feitas diante da apostila:**   
+Foram realizadas alterações visuais na interface do aplicativo, incluindo mudança de cores, inserção de imagem personalizada e organização dos componentes na tela para deixá-la mais intuitiva. Também foi ajustado o botão responsável pela ligação e configurados os blocos necessários para executar corretamente a ação de chamada telefônica através do componente de ligação do App Inventor.
 
 
 | Print da Tela do Design (Navegador) | Print da Tela do Design (Emulador) | Print da Tela Redirecionada | Print da Tela dos Blocos |
