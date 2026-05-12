@@ -35,7 +35,8 @@ Foram realizadas algumas modificações em relação ao modelo apresentado na ap
 
 ---
 
-# projeto 2
+# Projeto 2 - Envio de correios eletrônicos (Componentes Avançados - 1)
+
 
 --- 
 
