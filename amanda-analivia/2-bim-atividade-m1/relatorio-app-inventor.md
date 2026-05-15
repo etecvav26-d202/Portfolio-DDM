@@ -1,4 +1,4 @@
-# Relatório dos Aplicativos
+# Relatório dos Aplicativos - Componentes Avançados
 
 **`Instituição:`**
 ETEC Vasco Antônio Venchiarutti
