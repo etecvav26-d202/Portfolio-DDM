@@ -11,19 +11,6 @@ Centralizar e organizar os trabalhos acadêmicos desenvolvidos pela dupla, mante
 ## 📂 Estrutura
 
 ```text
-# 📚 Amanda & Analivia
-
-Bem-vindo à nossa pasta de trabalhos!
-
-Este diretório foi criado para organizar os projetos, atividades e documentações desenvolvidos por Amanda e Analivia ao longo do curso. Aqui estão reunidos os materiais produzidos em dupla, facilitando o acesso e a organização dos conteúdos acadêmicos.
-
-## 🎯 Objetivo
-
-Centralizar e organizar os trabalhos desenvolvidos pela dupla, mantendo uma estrutura clara para armazenamento e consulta dos projetos realizados durante cada bimestre.
-
-## 📂 Estrutura
-
-```text
 amanda-analivia/
 │
 ├── 1BIM/
