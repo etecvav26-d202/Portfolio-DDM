@@ -55,11 +55,12 @@ O usuário deve calcular o resultado e digitá-lo no campo de resposta. Ao clica
 
 
 **Modificações feitas diante do vídeo:**   
-Foram realizadas alterações significativas em relação ao modelo original demonstrado em vídeo, visando a personalização e o aumento do desafio do jogo. A interface visual foi reestruturada através da alteração da paleta de cores, adotando tons de roxo, além da modificação no tamanho e fontes dos textos e da reorganização dos componentes visuais para tornar o aplicativo mais moderno e intuitivo.
 
-Outra grande mudança ocorreu no aumento da complexidade matemática e da ordem de grandeza, visto que no projeto original do vídeo o sistema operava com números menores na casa das centenas, exibindo apenas três dígitos. Como modificação, a lógica dos blocos foi alterada para sortear números inteiros aleatórios de 1 a 9999, atualizando os campos de exibição para a casa dos milhares e elevando consideravelmente o nível de dificuldade dos cálculos.
+Foram realizadas diversas alterações para personalizar e tornar o jogo mais desafiador. A interface recebeu uma nova identidade visual, com mudanças na paleta de cores, nos tamanhos e estilos dos textos e na organização dos componentes.
 
-Por fim, foi implementada uma melhoria na lógica do componente de notificação para o alerta de erro. Diferente do modelo base, que apenas notificava o erro em si, foi utilizado o bloco de texto para juntar informações, permitindo que o aplicativo agora exiba dinamicamente o valor correto da operação matemática junto com a mensagem de erro, garantindo que o usuário saiba imediatamente qual era o resultado exato e tornando o aplicativo muito mais didático.
+Também foi aumentada a dificuldade das operações matemáticas. Enquanto o modelo original utilizava números menores, na casa das centenas, este projeto passou a trabalhar com valores entre 1 e 9999, exigindo cálculos mais complexos.
+
+Além disso, a lógica da notificação de erro foi aprimorada. Em vez de apenas informar que a resposta estava incorreta, o aplicativo passou a exibir também o resultado correto da operação, tornando a experiência mais educativa e auxiliando no aprendizado do usuário.
 
 
 | Print da Tela do Design | Print da Tela dos Blocos |
