@@ -20,14 +20,17 @@ Informática para Internet
 ## Descrição
 
 **Objetivo:**   
+
 O objetivo deste aplicativo foi desenvolver um simulador digital de dados utilizando o MIT App Inventor, com foco no aprendizado de lógica de programação para dispositivos móveis. O projeto permitiu trabalhar a geração de números aleatórios, o uso de estruturas condicionais para alterar imagens dinamicamente, a integração de recursos multimídia (som e vibração) e a criação de interfaces com múltiplas telas e navegação entre elas.
 
 **Funcionamento:**   
+
 O aplicativo possui duas telas integradas. Ao clicar no botão *"Sortear"*, o sistema gera números aleatórios de 1 a 6, reproduz um efeito sonoro e faz o aparelho vibrar por 100 milissegundos. Em seguida, estruturas condicionais verificam os valores gerados e alteram as imagens para exibir a face correta dos dados.
 
 Na segunda tela, acessada por um botão localizado no topo da tela principal, são exibidos dois dados simultaneamente. Ao realizar um novo sorteio, o aplicativo gera dois números aleatórios, atualiza as imagens correspondentes e calcula automaticamente a soma dos valores, exibindo o resultado ao usuário. Também há um botão para retornar à tela inicial, garantindo uma navegação simples e intuitiva.
 
 **Modificações feitas diante do vídeo:**   
+
 Foram realizadas personalizações na interface, incluindo novas imagens, alterações de cores e ajustes no tamanho dos botões para melhorar a aparência e a usabilidade do aplicativo.
 
 Além disso, foi implementada uma segunda tela, recurso não presente no modelo original. Nela, o usuário pode visualizar dois dados ao mesmo tempo e acompanhar o resultado da soma dos valores sorteados. Já na tela principal, é exibido apenas um dado por vez, tornando as funcionalidades mais organizadas.
@@ -56,9 +59,7 @@ O usuário deve calcular o resultado e digitá-lo no campo de resposta. Ao clica
 
 **Modificações feitas diante do vídeo:**   
 
-Foram realizadas diversas alterações para personalizar e tornar o jogo mais desafiador. A interface recebeu uma nova identidade visual, com mudanças na paleta de cores, nos tamanhos e estilos dos textos e na organização dos componentes.
-
-Também foi aumentada a dificuldade das operações matemáticas. Enquanto o modelo original utilizava números menores, na casa das centenas, este projeto passou a trabalhar com valores entre 1 e 9999, exigindo cálculos mais complexos.
+Foram realizadas diversas alterações para personalizar e tornar o jogo mais desafiador. A interface recebeu uma nova identidade visual, com mudanças na paleta de cores, nos tamanhos e estilos dos textos e na organização dos componentes. Também foi aumentada a dificuldade das operações matemáticas. Enquanto o modelo original utilizava números menores, na casa das centenas, este projeto passou a trabalhar com valores entre 1 e 9999, exigindo cálculos mais complexos.
 
 Além disso, a lógica da notificação de erro foi aprimorada. Em vez de apenas informar que a resposta estava incorreta, o aplicativo passou a exibir também o resultado correto da operação, tornando a experiência mais educativa e auxiliando no aprendizado do usuário.
 
