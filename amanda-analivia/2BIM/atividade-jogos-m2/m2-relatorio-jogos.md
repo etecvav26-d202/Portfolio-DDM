@@ -44,7 +44,8 @@ Além disso, foi implementada uma segunda tela, recurso não presente no modelo 
 ## Descrição
 
 **Objetivo:**   
-O objetivo deste aplicativo foi desenvolver um jogo interativo de desafio matemático utilizando o MIT App Inventor. O projeto teve como finalidade prática aprofundar os conhecimentos em lógica de programação mobile, focando na criação e manipulação de variáveis globais, geração de valores aleatórios de grande escala, e no uso de estruturas condicionais aninhadas (`se... então... senão`) para gerenciar diferentes operações matemáticas (adição, subtração e multiplicação). Além disso, buscou-se trabalhar com o armazenamento e atualização em tempo real de pontuações (placar de acertos e erros) e a integração de notificações para o usuário.
+
+O objetivo deste aplicativo foi desenvolver um jogo interativo de desafio matemático utilizando o MIT App Inventor, com foco no aprendizado de lógica de programação para dispositivos móveis. O projeto permitiu trabalhar a criação e manipulação de variáveis globais, a geração de números aleatórios, o uso de estruturas condicionais para diferentes operações matemáticas (adição, subtração e multiplicação), além do controle de pontuação e da utilização de notificações e sons.
 
 **Funcionamento:**   
 O aplicativo funciona como um quiz de matemática dinâmico. Assim que a tela inicial é carregada, o procedimento de sorteio de uma nova conta é acionado automaticamente, gerando dois números inteiros aleatórios na casa dos milhares, entre 1 e 9999, e escolhendo aleatoriamente um operador matemático de 1 a 3. Caso o operador escolhido seja o número 1, o sistema realiza uma operação de adição entre os valores. Se for o número 2, é executada uma subtração, contando com uma lógica interna que compara os números para garantir que o menor seja subtraído do maior, evitando resultados negativos. Caso o operador seja o número 3, o sistema realiza uma multiplicação. 
