@@ -20,7 +20,7 @@ Informática para Internet
 ## Descrição
 
 **Objetivo:**   
-O objetivo deste aplicativo foi desenvolver um simulador digital interativo de dados utilizando o MIT App Inventor, com foco no aprendizado de lógica de programação para dispositivos móveis. O projeto teve como finalidade prática compreender a manipulação de variáveis e propriedades dinâmicas, como a geração de números inteiros aleatórios (randomização), o uso de estruturas condicionais encadeadas (`se... então`) para alteração de componentes visuais (Imagens), e a integração de recursos multimídia (componentes de `Som` e vibração do dispositivo). Além disso, o aplicativo permitiu exercitar a criação de interfaces com múltiplas telas e a navegação entre elas.
+O objetivo deste aplicativo foi desenvolver um simulador digital de dados utilizando o MIT App Inventor, com foco no aprendizado de lógica de programação para dispositivos móveis. O projeto permitiu trabalhar a geração de números aleatórios, o uso de estruturas condicionais para alterar imagens dinamicamente, a integração de recursos multimídia (som e vibração) e a criação de interfaces com múltiplas telas e navegação entre elas.
 
 **Funcionamento:**   
 O aplicativo é composto por duas telas de design integradas. Ao interagir com o botão *"Sortear"*, o sistema gera simultaneamente dois números inteiros aleatórios no intervalo de 1 a 6, armazenando-os em rótulos de texto. No mesmo instante, os componentes de multimídia são acionados, reproduzindo um efeito sonoro e fazendo o aparelho vibrar por 100 milissegundos.
