@@ -46,6 +46,11 @@ Também foi implementado um recurso avançado aprendido em aulas anteriores: a i
 O objetivo deste aplicativo foi desenvolver um jogo interativo de desafio matemático utilizando o MIT App Inventor. O projeto teve como finalidade prática aprofundar os conhecimentos em lógica de programação mobile, focando na criação e manipulação de variáveis globais, geração de valores aleatórios de grande escala, e no uso de estruturas condicionais aninhadas (`se... então... senão`) para gerenciar diferentes operações matemáticas (adição, subtração e multiplicação). Além disso, buscou-se trabalhar com o armazenamento e atualização em tempo real de pontuações (placar de acertos e erros) e a integração de notificações para o usuário.
 
 **Funcionamento:**   
+O aplicativo funciona como um quiz de matemática dinâmico. Assim que a tela inicial é carregada, o procedimento de sorteio de uma nova conta é acionado automaticamente, gerando dois números inteiros aleatórios na casa dos milhares, entre 1 e 9999, e escolhendo aleatoriamente um operador matemático de 1 a 3. Caso o operador escolhido seja o número 1, o sistema realiza uma operação de adição entre os valores. Se for o número 2, é executada uma subtração, contando com uma lógica interna que compara os números para garantir que o menor seja subtraído do maior, evitando resultados negativos. Caso o operador seja o número 3, o sistema realiza uma multiplicação. 
+
+O usuário deve calcular o valor e digitar sua resposta no campo de texto. Ao clicar no botão de verificar resultado, o sistema valida a resposta fornecida. Se o cálculo estiver correto, o placar de acertos soma mais um ponto, um som de acerto é reproduzido e um alerta textual parabeniza o usuário. Se a resposta estiver errada, o placar de erros é incrementado, um som de erro toca, o dispositivo vibra e uma notificação revela qual era a resposta correta. 
+
+Em ambos os casos, após a verificação, o campo de texto é limpo e uma nova conta aleatória é gerada automaticamente, sendo que o usuário também pode utilizar o botão de sair para fechar a aplicação imediatamente.
 
 
 **Modificações feitas diante do vídeo:**   
