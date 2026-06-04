@@ -19,4 +19,13 @@ Informática para Internet
 
 ## Descrição
 
-**Objetivo:** 
+**Objetivo:**   
+
+
+**Funcionamento:**   
+
+
+**Modificações feitas diante da apostila:**   
+
+
+
