@@ -2,7 +2,7 @@
 
 Esta pasta reúne os trabalhos e atividades desenvolvidos durante o 2º bimestre.
 
-## Conteúdo
+## ℹ️ Conteúdo
 
 - atividade-apps-m1
 - atividade-jogos-m2
