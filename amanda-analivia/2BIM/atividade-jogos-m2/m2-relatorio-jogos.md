@@ -32,6 +32,7 @@ Foram realizadas algumas modificações em relação ao modelo original apresent
 
 Também foi implementado um recurso avançado aprendido em aulas anteriores: a inserção de uma nova tela para segmentar as funções do aplicativo. Nessa tela secundária (acessada através do botão localizado no topo da tela principal), o usuário visualiza dois dados simultaneamente. Ao clicar no botão inferior *("Sortear")*, o aplicativo gera dois números inteiros aleatórios no intervalo de 1 a 6, altera as imagens correspondentes em tempo real e realiza a soma automática dos valores, exibindo o resultado logo abaixo para o usuário. Já na tela principal, é exibido apenas um dado por vez. 
 
+
 | Print da 1ª Tela do Design | Print da 2ª Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- | ---- |
 | ![Design do Aplicativo](imagens/jogo1dado_screen1.png) | ![Design do Aplicativo](imagens/jogo1dado_screen2.png) | ![Blocos de programação](imagens/jogo1dado_blocos.png) |
@@ -54,6 +55,12 @@ Em ambos os casos, após a verificação, o campo de texto é limpo e uma nova c
 
 
 **Modificações feitas diante do vídeo:**   
+Foram realizadas alterações significativas em relação ao modelo original demonstrado em vídeo, visando a personalização e o aumento do desafio do jogo. A interface visual foi reestruturada através da alteração da paleta de cores, adotando tons de roxo, além da modificação no tamanho e fontes dos textos e da reorganização dos componentes visuais para tornar o aplicativo mais moderno e intuitivo.
+
+Outra grande mudança ocorreu no aumento da complexidade matemática e da ordem de grandeza, visto que no projeto original do vídeo o sistema operava com números menores na casa das centenas, exibindo apenas três dígitos. Como modificação, a lógica dos blocos foi alterada para sortear números inteiros aleatórios de 1 a 9999, atualizando os campos de exibição para a casa dos milhares e elevando consideravelmente o nível de dificuldade dos cálculos.
+
+Por fim, foi implementada uma melhoria na lógica do componente de notificação para o alerta de erro. Diferente do modelo base, que apenas notificava o erro em si, foi utilizado o bloco de texto para juntar informações, permitindo que o aplicativo agora exiba dinamicamente o valor correto da operação matemática junto com a mensagem de erro, garantindo que o usuário saiba imediatamente qual era o resultado exato e tornando o aplicativo muito mais didático.
+
 
 | Print da Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- |
