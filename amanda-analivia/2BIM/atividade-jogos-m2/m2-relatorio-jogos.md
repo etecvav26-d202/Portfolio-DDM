@@ -33,3 +33,16 @@ Informática para Internet
 | ![Design do Aplicativo](imagens/jogo1dado_screen1.png) | ![Design do Aplicativo](imagens/jogo1dado_screen2.png) | ![Blocos de programação](imagens/jogo1dado_blocos.png) |
 
 --- 
+
+# Jogo 2 - Adivinhe o Número
+
+## Descrição
+
+**Objetivo:**   
+
+
+**Funcionamento:**   
+
+
+**Modificações feitas diante da apostila:**   
+
