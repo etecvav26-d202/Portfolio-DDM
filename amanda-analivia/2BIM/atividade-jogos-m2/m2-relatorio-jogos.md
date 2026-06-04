@@ -43,7 +43,7 @@ Também foi implementado um recurso avançado aprendido em aulas anteriores: a i
 ## Descrição
 
 **Objetivo:**   
-
+O objetivo deste aplicativo foi desenvolver um jogo interativo de desafio matemático utilizando o MIT App Inventor. O projeto teve como finalidade prática aprofundar os conhecimentos em lógica de programação mobile, focando na criação e manipulação de variáveis globais, geração de valores aleatórios de grande escala, e no uso de estruturas condicionais aninhadas (`se... então... senão`) para gerenciar diferentes operações matemáticas (adição, subtração e multiplicação). Além disso, buscou-se trabalhar com o armazenamento e atualização em tempo real de pontuações (placar de acertos e erros) e a integração de notificações para o usuário.
 
 **Funcionamento:**   
 
