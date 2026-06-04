@@ -25,7 +25,7 @@ Informática para Internet
 **Funcionamento:**   
 
 
-**Modificações feitas diante da apostila:**   
+**Modificações feitas diante do vídeo:**   
 
 
 | Print da 1ª Tela do Design | Print da 2ª Tela do Design | Print da Tela dos Blocos |
@@ -44,7 +44,7 @@ Informática para Internet
 **Funcionamento:**   
 
 
-**Modificações feitas diante da apostila:**   
+**Modificações feitas diante do vídeo:**   
 
 | Print da Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- | ---- |
