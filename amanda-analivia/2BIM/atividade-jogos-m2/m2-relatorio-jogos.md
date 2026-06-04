@@ -28,7 +28,9 @@ O aplicativo é composto por duas telas de design integradas. Ao interagir com o
 Na sequência, uma estrutura de blocos condicionais verifica o valor gerado para cada dado e altera dinamicamente a propriedade da imagem correspondente para exibir a face correta do dado. Por fim, ao clicar no botão que redireciona o usuário para a segunda tela do aplicativo, presente no topo da tela, ao clicar no botão *"Sortear"*, é realizado a operação matemática de soma entre os dois valores sorteados e exibido o resultado. O usuário também pode utilizar o botão superior, na mesma página, para navegar de volta à tela inicial, garantindo a fluidez e a usabilidade do aplicativo.
 
 **Modificações feitas diante do vídeo:**   
+Foram realizadas algumas modificações em relação ao modelo original apresentado em vídeo. A interface foi personalizada com a identidade visual do projeto, incluindo a adição de novas imagens e alterações estéticas no botão, como a mudança de cor e ajuste de tamanho para melhorar a usabilidade.
 
+Também foi implementado um recurso avançado aprendido em aulas anteriores: a inserção de uma nova tela para segmentar as funções do aplicativo. Nessa tela secundária (acessada através do botão localizado no topo da tela principal), o usuário visualiza dois dados simultaneamente. Ao clicar no botão inferior *("Sortear")*, o aplicativo gera dois números inteiros aleatórios no intervalo de 1 a 6, altera as imagens correspondentes em tempo real e realiza a soma automática dos valores, exibindo o resultado logo abaixo para o usuário. Já na tela principal, é exibido apenas um dado por vez. 
 
 | Print da 1ª Tela do Design | Print da 2ª Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- | ---- |
