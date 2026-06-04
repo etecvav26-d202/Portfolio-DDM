@@ -28,4 +28,8 @@ Informática para Internet
 **Modificações feitas diante da apostila:**   
 
 
+| Print da 1ª Tela do Design | Print da 2ª Tela do Design | Print da Tela dos Blocos |
+| ---- | ---- | ---- |
+| ![Design do Aplicativo](imagens/jogo1dado_screen1.png) | ![Design do Aplicativo](imagens/jogo1dado_screen2.png) | ![Blocos de programação](imagens/jogo1dado_blocos.png) |
 
+--- 
