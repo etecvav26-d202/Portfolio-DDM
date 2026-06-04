@@ -47,7 +47,7 @@ Informática para Internet
 **Modificações feitas diante do vídeo:**   
 
 | Print da Tela do Design | Print da Tela dos Blocos |
-| ---- | ---- | ---- |
+| ---- | ---- |
 | ![Design do Aplicativo](imagens/jogo2adivinha_screen.png) | ![Blocos de programação](imagens/jogo2adivinha_blocos.png) |
 
 --- 
