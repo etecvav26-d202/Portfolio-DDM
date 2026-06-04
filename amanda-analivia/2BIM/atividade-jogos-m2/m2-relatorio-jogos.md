@@ -28,9 +28,9 @@ O aplicativo possui duas telas integradas. Ao clicar no botão *"Sortear"*, o si
 Na segunda tela, acessada por um botão localizado no topo da tela principal, são exibidos dois dados simultaneamente. Ao realizar um novo sorteio, o aplicativo gera dois números aleatórios, atualiza as imagens correspondentes e calcula automaticamente a soma dos valores, exibindo o resultado ao usuário. Também há um botão para retornar à tela inicial, garantindo uma navegação simples e intuitiva.
 
 **Modificações feitas diante do vídeo:**   
-Foram realizadas algumas modificações em relação ao modelo original apresentado em vídeo. A interface foi personalizada com a identidade visual do projeto, incluindo a adição de novas imagens e alterações estéticas no botão, como a mudança de cor e ajuste de tamanho para melhorar a usabilidade.
+Foram realizadas personalizações na interface, incluindo novas imagens, alterações de cores e ajustes no tamanho dos botões para melhorar a aparência e a usabilidade do aplicativo.
 
-Também foi implementado um recurso avançado aprendido em aulas anteriores: a inserção de uma nova tela para segmentar as funções do aplicativo. Nessa tela secundária (acessada através do botão localizado no topo da tela principal), o usuário visualiza dois dados simultaneamente. Ao clicar no botão inferior *("Sortear")*, o aplicativo gera dois números inteiros aleatórios no intervalo de 1 a 6, altera as imagens correspondentes em tempo real e realiza a soma automática dos valores, exibindo o resultado logo abaixo para o usuário. Já na tela principal, é exibido apenas um dado por vez. 
+Além disso, foi implementada uma segunda tela, recurso não presente no modelo original. Nela, o usuário pode visualizar dois dados ao mesmo tempo e acompanhar o resultado da soma dos valores sorteados. Já na tela principal, é exibido apenas um dado por vez, tornando as funcionalidades mais organizadas.
 
 
 | Print da 1ª Tela do Design | Print da 2ª Tela do Design | Print da Tela dos Blocos |
