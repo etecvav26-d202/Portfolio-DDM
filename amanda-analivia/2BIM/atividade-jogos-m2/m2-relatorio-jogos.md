@@ -38,7 +38,7 @@ Além disso, foi implementada uma segunda tela, recurso não presente no modelo 
 
 | Print da 1ª Tela do Design | Print da Tela dos Blocos | Print da 2ª Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- | ---- | ---- |
-| ![Design do Aplicativo](imagens/jogo1dado_screen1.png) | ![Blocos de programação](imagens/jogo1dado_blocos1.png) | | ![Design do Aplicativo](imagens/jogo1dado_screen2.png) | ![Blocos de programação](imagens/jogo1dado_blocos2.png) |
+| ![Design do Aplicativo](imagens/jogo1dado_screen1.png) | ![Blocos de programação](imagens/jogo1dado_blocos1.png) | ![Design do Aplicativo](imagens/jogo1dado_screen2.png) | ![Blocos de programação](imagens/jogo1dado_blocos2.png) |
 
 --- 
 
