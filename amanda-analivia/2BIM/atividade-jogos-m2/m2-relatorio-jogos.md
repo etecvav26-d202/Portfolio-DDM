@@ -36,9 +36,9 @@ Foram realizadas personalizações na interface, incluindo novas imagens, altera
 Além disso, foi implementada uma segunda tela, recurso não presente no modelo original. Nela, o usuário pode visualizar dois dados ao mesmo tempo e acompanhar o resultado da soma dos valores sorteados. Já na tela principal, é exibido apenas um dado por vez, tornando as funcionalidades mais organizadas.
 
 
-| Print da 1ª Tela do Design | Print da Tela dos Blocos da Tela | Print da 2ª Tela do Design | Print da Tela dos Blocos da Tela |
+| Print da 1ª Tela do Design | Print da 2ª Tela do Design | Print da Tela dos Blocos da 1ª Tela | Print da Tela dos Blocos da 2ª  Tela |
 | ---- | ---- | ---- | ---- |
-| ![Design do Aplicativo](imagens/jogo1dado_screen1.png) | ![Blocos de programação](imagens/jogo1dado_blocos1.png) | ![Design do Aplicativo](imagens/jogo1dado_screen2.png) | ![Blocos de programação](imagens/jogo1dado_blocos2.png) |
+| ![Design do Aplicativo](imagens/jogo1dado_screen1.png) | ![Design do Aplicativo](imagens/jogo1dado_screen2.png) | ![Blocos de programação](imagens/jogo1dado_blocos1.png) | ![Blocos de programação](imagens/jogo1dado_blocos2.png) |
 
 --- 
 
