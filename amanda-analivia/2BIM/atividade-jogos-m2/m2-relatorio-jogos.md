@@ -91,5 +91,5 @@ Além disso, também foi alterada a quantidade de vidas do jogador, que passou a
 
 | Print da 1ª Tela do Design | Print da Tela dos Blocos | Print da 2ª Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- | ---- | ---- |
-| ![Design do Aplicativo](imagens/jogo3movimento_screen01.png) | ![Blocos de programação](imagens/jogo3movimento_blocos1.png) | ![Design do Aplicativo](imagens/jogo3movimento_screen2.png) | ![Blocos de programação](imagens/jogo3movimento_blocos02.png) |
+| ![Design do Aplicativo](imagens/jogo3movimento_screen01.png) | ![Blocos de programação](imagens/jogo3movimento_blocos1.png) | ![Design do Aplicativo](imagens/jogo3movimento_screen02.png) | ![Blocos de programação](imagens/jogo3movimento_blocos2.png) |
 
