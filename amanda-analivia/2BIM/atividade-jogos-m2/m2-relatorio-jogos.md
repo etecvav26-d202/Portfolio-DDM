@@ -74,6 +74,7 @@ Além disso, a lógica da notificação de erro foi aprimorada. Em vez de apenas
 
 **Objetivo:**   
 
+O aplicativo Fuja do 67 tem como objetivo proporcionar uma experiência divertida e desafiadora ao usuário. O jogador controla um personagem que deve se movimentar para evitar obstáculos e sobreviver pelo maior tempo possível. Durante a partida, é necessário desviar dos elementos que aparecem na tela, mantendo a atenção e os reflexos rápidos para não perder vidas.
 
 **Funcionamento:**   
 
@@ -82,5 +83,5 @@ Além disso, a lógica da notificação de erro foi aprimorada. Em vez de apenas
 
 | Print da 1ª Tela do Design | Print da Tela dos Blocos | Print da 2ª Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- | ---- | ---- |
-| ![Design do Aplicativo](imagens/jogo3movimento_screen1.png) | ![Blocos de programação]() | ![Design do Aplicativo](imagens/jogo3movimento_screen2.png) | ![Blocos de programação](imagens/jogo3movimento_blocos.png) |
+| ![Design do Aplicativo](imagens/jogo3movimento_screen1.png) | ![Blocos de programação](imagens/jogo3movimento_blocos1.png) | ![Design do Aplicativo](imagens/jogo3movimento_screen2.png) | ![Blocos de programação](imagens/jogo3movimento_blocos2.png) |
 
