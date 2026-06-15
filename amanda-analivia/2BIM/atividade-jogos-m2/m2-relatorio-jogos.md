@@ -79,3 +79,8 @@ Além disso, a lógica da notificação de erro foi aprimorada. Em vez de apenas
 
 
 **Modificações feitas:**   
+
+| Print da 1ª Tela do Design | Print da Tela dos Blocos | Print da 2ª Tela do Design | Print da Tela dos Blocos |
+| ---- | ---- | ---- | ---- |
+| ![Design do Aplicativo](imagens/jogo3movimento_screen1.png) | ![Blocos de programação]() | ![Design do Aplicativo](imagens/jogo3movimento_screen2.png) | ![Blocos de programação](imagens/jogo3movimento_blocos.png) |
+
