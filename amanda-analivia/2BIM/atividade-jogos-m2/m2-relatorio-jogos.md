@@ -78,6 +78,9 @@ O aplicativo Fuja do 67 tem como objetivo proporcionar uma experiência divertid
 
 **Funcionamento:**   
 
+Ao iniciar o aplicativo, o usuário é direcionado para a tela inicial, onde pode começar o jogo através do botão Start. Durante a partida, o personagem pode ser movimentado para a esquerda e para a direita utilizando os botões de controle presentes na parte inferior da tela.
+
+Objetos caem constantemente do topo da tela em posições aleatórias. Quando um desses objetos colide com o personagem, uma vida é perdida. O jogo acompanha a quantidade de vidas restantes e exibe essa informação na tela em tempo real. Quando todas as vidas são perdidas, uma mensagem de Game Over é exibida, permitindo que o jogador reinicie a partida.
 
 **Modificações feitas:**   
 
