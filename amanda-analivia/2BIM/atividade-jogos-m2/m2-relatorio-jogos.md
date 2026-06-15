@@ -84,6 +84,11 @@ Objetos caem constantemente do topo da tela em posições aleatórias. Quando um
 
 **Modificações feitas:**   
 
+Foram realizadas algumas alterações em relação à versão original do projeto. A principal modificação foi a troca das imagens, incluindo a tela inicial, o cenário do jogo e os elementos visuais utilizados, tornando a aparência mais personalizada e atrativa.
+
+Além disso, também foi alterada a quantidade de vidas do jogador, que passou a iniciar a partida com 10 vidas, aumentando o tempo de jogo e proporcionando uma experiência mais equilibrada para o usuário. Essas mudanças contribuíram para melhorar tanto a estética quanto a jogabilidade do aplicativo.
+
+
 | Print da 1ª Tela do Design | Print da Tela dos Blocos | Print da 2ª Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- | ---- | ---- |
 | ![Design do Aplicativo](imagens/jogo3movimento_screen1.png) | ![Blocos de programação](imagens/jogo3movimento_blocos1.png) | ![Design do Aplicativo](imagens/jogo3movimento_screen2.png) | ![Blocos de programação](imagens/jogo3movimento_blocos2.png) |
