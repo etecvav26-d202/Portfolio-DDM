@@ -85,3 +85,7 @@ Para interagir com o TinyDB, utilizamos blocos específicos dentro do editor de 
 
 - **Quando utilizar:** Quando o usuário desejar excluir um registro específico sem afetar o resto do app.
 - **Exemplo:** Remover apenas um contato específico da agenda.
+
+```ClearAll```:
+
+- **Quando utilizar:** Situações de restauração de fábrica do app ou quando o usuário decide "limpar todos os dados" nas configurações.
