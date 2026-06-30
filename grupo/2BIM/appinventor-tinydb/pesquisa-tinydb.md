@@ -116,4 +116,10 @@ Embora parecidos no nome, esses dois componentes possuem propósitos e infraestr
 
 Para garantir que o armazenamento funcione de maneira limpa e sem bugs, algumas diretrizes devem ser seguidas:
 
-- **Escolha de nomes para as Tags:** Utilize um padrão claro e padronizado (como camelCase ou SNAKE_CASE) e evite acentos ou espaços. Use tags descritivas como usuarioNome ou pontuacao_atual em vez de apenas x ou dado1.
+- **Escolha de nomes para as Tags:** Utilize um padrão claro e padronizado (como camelCase ou *SNAKE_CASE*) e evite acentos ou espaços. Use tags descritivas como ```usuarioNome``` ou ```pontuacao_atual``` em vez de apenas ```x``` ou ```dado1```.
+
+- **Organização dos dados:** Para salvar formulários complexos, prefira agrupar os dados em uma estrutura de Lista antes de salvar em uma única Tag, evitando criar dezenas de tags soltas.
+
+- **Exclusão de dados desnecessários:** Sempre que o usuário deletar um item visual da tela, execute o bloco ```ClearTag``` correspondente para não acumular lixo eletrônico na memória do aparelho.
+
+- **Evitar perda de informações:* Sempre teste o comportamento do bloco ```valueIfTagNotThere``` no ```GetValue``` para garantir que o app não quebre (provoque um crash) caso o banco de dados esteja totalmente limpo na primeira inicialização.
