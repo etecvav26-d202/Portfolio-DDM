@@ -38,6 +38,11 @@ O ecossistema é amplamente utilizado no ensino de programação, prototipagem r
 
 O **TinyDB** é um componente não visível do MIT App Inventor que pertence à categoria de armazenamento de dados (Storage).
 
+| Passo | Imagem |
+|---|---|
+| *1.* Nos componentes durante a criação do app, clique em "Armazenamento". O componente "TinyDB" estará lá. | imagem |
+| *2.* Arraste esse componente para a tela do celular. Ele aparecerá logo abaixo da tela como um item invisível. | imagem |
+
 **Finalidade e Local de Armazenamento:**   
 
 Sua finalidade principal é permitir a persistência de dados local. Isso significa que as informações salvas pelo usuário não são perdidas quando o aplicativo é fechado ou quando o dispositivo é reiniciado. Os dados são armazenados diretamente na memória interna do próprio dispositivo (smartphone ou tablet), no espaço reservado exclusivamente para aquele aplicativo.
