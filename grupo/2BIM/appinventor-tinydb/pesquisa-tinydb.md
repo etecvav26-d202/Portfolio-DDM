@@ -66,3 +66,7 @@ A atualização dos dados acontece por meio da sobreposição: ao realizar uma n
 **Exemplo Prático de Fluxo:**   
 
 Imagine a criação de um jogo onde salvamos o recorde do jogador. A tag configurada será ```"MaiorPontuacao"``` e o valor inicial gravado será ```1500```. Quando o jogador superar essa marca atingindo ```1800``` pontos, o aplicativo dispara uma nova gravação sob a mesma tag ```"MaiorPontuacao"```, agora com o valor ```1800```. O banco de dados automaticamente descarta o número antigo e passa a retornar o novo recorde nas próximas leituras.
+
+## 4. Componentes Relacionados (Blocos)
+
+Para interagir com o TinyDB, utilizamos blocos específicos dentro do editor de lógica do App Inventor.
