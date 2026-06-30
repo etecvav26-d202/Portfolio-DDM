@@ -61,3 +61,5 @@ O funcionamento do TinyDB baseia-se no conceito de armazenamento de dados do tip
 
 O ciclo de manipulação desses dados ocorre de maneira direta. O processo de gravação associa um valor a uma tag específica; caso a tag informada ainda não exista no sistema, o componente se encarrega de criá-la automaticamente. Para realizar a leitura, o desenvolvedor solicita o conteúdo de uma tag desejada, sendo obrigatório definir um valor padrão de retorno para os casos em que a tag consultada nunca tenha sido criada anteriormente.
 
+A atualização dos dados acontece por meio da sobreposição: ao realizar uma nova gravação utilizando uma tag já existente, o TinyDB substitui o registro antigo pelo atual de forma imediata. Por fim, a remoção consiste na exclusão definitiva da tag e de seu respectivo valor, liberando o espaço ocupado na memória interna do dispositivo.
+
