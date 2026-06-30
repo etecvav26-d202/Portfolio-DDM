@@ -105,3 +105,7 @@ Embora parecidos no nome, esses dois componentes possuem propósitos e infraestr
 | Característica | TinyDB | TinyWebDB |
 |---|---|---|
 | **Local de Armazenamento** | Memória interna do próprio dispositivo. | Servidor web remoto (Nuvem). |
+| **Necessidade de Internet** |	Não (100% Offline). | Sim (Obrigatório para ler/gravar). |
+| **Compartilhamento** | Dados restritos ao celular do usuário. | Vários usuários acessam os mesmos dados. |
+| **Vantagens** | Velocidade e funcionamento offline. | Permite criar apps multiusuário (ex: Chats). |
+| **Desvantagens** | Se o celular quebrar, os dados somem. | Configuração de servidor e latência de rede. |
