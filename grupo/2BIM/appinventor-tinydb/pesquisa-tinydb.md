@@ -97,3 +97,6 @@ O TinyDB se mostra a solução ideal para cenários de desenvolvimento onde o vo
 Da mesma forma, sistemas voltados para o gerenciamento pessoal, tais como blocos de anotações e planilhas de controle financeiro, encontram no TinyDB o suporte necessário para registrar textos diários e fluxos de caixa de modo ágil. No desenvolvimento de jogos casuais, o componente é frequentemente aplicado para preservar o progresso do jogador, salvando fases desbloqueadas e as maiores pontuações obtidas.
 
 A grande adequação do TinyDB a esses cenários reside no fato de que essas ferramentas exigem acesso imediato à informação. O usuário espera que seus dados pessoais e configurações customizadas sejam carregados de forma instantânea, sem a necessidade de depender de conexões de internet estáveis para baixar dados de servidores externos.
+
+## 6. TinyDB × TinyWebDB
+
