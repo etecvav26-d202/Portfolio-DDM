@@ -33,3 +33,6 @@ O ecossistema é amplamente utilizado no ensino de programação, prototipagem r
 - **Ambiente Nuvem:** Não exige a instalação de ambientes de desenvolvimento complexos (IDEs) no computador; tudo roda diretamente no navegador.
 
 - **Testes em Tempo Real:** Através do aplicativo MIT AI2 Companion, é possível visualizar as alterações feitas no projeto instantaneamente no smartphone via Wi-Fi.
+
+## 2. O que é o TinyDB?
+
