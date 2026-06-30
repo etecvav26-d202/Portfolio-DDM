@@ -89,3 +89,6 @@ Para interagir com o TinyDB, utilizamos blocos específicos dentro do editor de 
 ```ClearAll```:
 
 - **Quando utilizar:** Situações de restauração de fábrica do app ou quando o usuário decide "limpar todos os dados" nas configurações.
+
+## 5. Aplicações Práticas
+
