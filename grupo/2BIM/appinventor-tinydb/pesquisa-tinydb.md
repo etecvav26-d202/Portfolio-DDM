@@ -104,3 +104,4 @@ Embora parecidos no nome, esses dois componentes possuem propósitos e infraestr
 
 | Característica | TinyDB | TinyWebDB |
 |---|---|---|
+| **Local de Armazenamento** | Memória interna do próprio dispositivo. | Servidor web remoto (Nuvem). |
