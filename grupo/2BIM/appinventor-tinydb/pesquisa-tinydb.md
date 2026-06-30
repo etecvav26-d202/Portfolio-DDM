@@ -92,3 +92,5 @@ Para interagir com o TinyDB, utilizamos blocos específicos dentro do editor de 
 
 ## 5. Aplicações Práticas
 
+O TinyDB se mostra a solução ideal para cenários de desenvolvimento onde o volume de dados é moderado e o uso do aplicativo é estritamente individual e focado no ambiente offline. Aplicativos utilitários diários como **listas de tarefas, agendas de contatos, cadastros simples de clientes e listas de compras** dependem diretamente desse componente para reter os itens inseridos pelo usuário, garantindo que as informações permaneçam intactas mesmo após o encerramento do aplicativo ou reinicialização do smartphone.
+
