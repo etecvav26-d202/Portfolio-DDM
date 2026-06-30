@@ -79,5 +79,9 @@ Para interagir com o TinyDB, utilizamos blocos específicos dentro do editor de 
 ```GetValue (tag, valueIfTagNotThere)```:
 
 - **Quando utilizar:** Na inicialização da tela ou quando precisar exibir o dado salvo. Requer a definição de um valor de retorno caso a tag esteja vazia.
-
 - **Exemplo:** Buscar a configuração de "Tema Escuro" (Verdadeiro/Falso). Se a tag não existir, define como Falso.
+
+```ClearTag (tag)```:
+
+- **Quando utilizar:** Quando o usuário desejar excluir um registro específico sem afetar o resto do app.
+- **Exemplo:** Remover apenas um contato específico da agenda.
