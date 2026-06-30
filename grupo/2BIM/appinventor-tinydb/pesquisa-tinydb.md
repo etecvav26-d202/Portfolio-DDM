@@ -114,3 +114,6 @@ Embora parecidos no nome, esses dois componentes possuem propósitos e infraestr
 
 ## 7. Boas Práticas
 
+Para garantir que o armazenamento funcione de maneira limpa e sem bugs, algumas diretrizes devem ser seguidas:
+
+- **Escolha de nomes para as Tags:** Utilize um padrão claro e padronizado (como camelCase ou SNAKE_CASE) e evite acentos ou espaços. Use tags descritivas como usuarioNome ou pontuacao_atual em vez de apenas x ou dado1.
