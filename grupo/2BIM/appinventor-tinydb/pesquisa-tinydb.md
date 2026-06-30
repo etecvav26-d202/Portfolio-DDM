@@ -25,3 +25,11 @@ O **MIT App Inventor** é uma plataforma de desenvolvimento web de código abert
 **Para que é utilizado:**   
 
 O ecossistema é amplamente utilizado no ensino de programação, prototipagem rápida de projetos e introdução à lógica de desenvolvimento de software. Ele serve como uma excelente porta de entrada para que estudantes e entusiastas transformem ideias em aplicativos funcionais de forma ágil.
+
+**Principais vantagens para iniciantes:**   
+
+- **Programação Visual:** Substitui a sintaxe textual por blocos lógicos interconectáveis, o que reduz drasticamente os erros de digitação (erros de sintaxe).
+
+- **Ambiente Nuvem:** Não exige a instalação de ambientes de desenvolvimento complexos (IDEs) no computador; tudo roda diretamente no navegador.
+
+- **Testes em Tempo Real:** Através do aplicativo MIT AI2 Companion, é possível visualizar as alterações feitas no projeto instantaneamente no smartphone via Wi-Fi.
