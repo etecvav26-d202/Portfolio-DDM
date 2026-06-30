@@ -40,8 +40,8 @@ O **TinyDB** é um componente não visível do MIT App Inventor que pertence à 
 
 | Passo | Imagem |
 |---|---|
-| *1.* Nos componentes durante a criação do app, clique em "Armazenamento". O componente "TinyDB" estará lá. | imagem |
-| *2.* Arraste esse componente para a tela do celular. Ele aparecerá logo abaixo da tela como um item invisível. | imagem |
+| *1.* Nos componentes durante a criação do app, clique em "Armazenamento". O componente "TinyDB" estará lá. | ![1º passo](imagens/imagem1.png)|
+| *2.* Arraste esse componente para a tela do celular. Ele aparecerá logo abaixo da tela como um item invisível. | ![2º passo](imagens/imagem2.png) |
 
 **Finalidade e Local de Armazenamento:**   
 
