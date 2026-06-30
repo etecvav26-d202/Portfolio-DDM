@@ -112,3 +112,5 @@ Embora parecidos no nome, esses dois componentes possuem propósitos e infraestr
 
 **Quando utilizar cada um:** Use o TinyDB para ferramentas pessoais e utilitários offline (ex: cronômetro com histórico). Use o TinyWebDB se o aplicativo precisar de interação entre pessoas ou sincronização em múltiplos aparelhos (ex: um placar líder global de um jogo).
 
+## 7. Boas Práticas
+
