@@ -128,3 +128,4 @@ Para garantir que o armazenamento funcione de maneira limpa e sem bugs, algumas 
 
 O componente TinyDB desempenha um papel fundamental no ecossistema do MIT App Inventor por preencher a lacuna entre interfaces estáticas e aplicativos dinâmicos e inteligentes. Sem a persistência de dados, a experiência do usuário seria frustrante, exigindo a reconfiguração e reinserção de dados a cada abertura do software.
 
+Ele se mostra perfeito para utilitários de produtividade pessoal, jogos casuais e ferramentas de registro individual. Através desta pesquisa, compreendeu-se que projetar um aplicativo exige pensar não apenas na interface visual, mas na arquitetura lógica de como a informação trafega, é atualizada e guardada com segurança no armazenamento local.
