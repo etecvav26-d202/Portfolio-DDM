@@ -75,3 +75,9 @@ Para interagir com o TinyDB, utilizamos blocos específicos dentro do editor de 
 
 - **Quando utilizar:** Sempre que precisar salvar ou atualizar uma informação.
 - **Exemplo:** Guardar o nome digitado em uma caixa de texto ao clicar no botão "Salvar".
+
+```GetValue (tag, valueIfTagNotThere)```:
+
+- **Quando utilizar:** Na inicialização da tela ou quando precisar exibir o dado salvo. Requer a definição de um valor de retorno caso a tag esteja vazia.
+
+- **Exemplo:** Buscar a configuração de "Tema Escuro" (Verdadeiro/Falso). Se a tag não existir, define como Falso.
