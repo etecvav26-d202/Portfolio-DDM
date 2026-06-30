@@ -100,3 +100,7 @@ A grande adequação do TinyDB a esses cenários reside no fato de que essas fer
 
 ## 6. TinyDB × TinyWebDB
 
+Embora parecidos no nome, esses dois componentes possuem propósitos e infraestruturas completamente distintos.
+
+| Característica | TinyDB | TinyWebDB |
+|---|---|---|
