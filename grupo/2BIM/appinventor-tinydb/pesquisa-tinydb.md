@@ -63,3 +63,6 @@ O ciclo de manipulação desses dados ocorre de maneira direta. O processo de gr
 
 A atualização dos dados acontece por meio da sobreposição: ao realizar uma nova gravação utilizando uma tag já existente, o TinyDB substitui o registro antigo pelo atual de forma imediata. Por fim, a remoção consiste na exclusão definitiva da tag e de seu respectivo valor, liberando o espaço ocupado na memória interna do dispositivo.
 
+**Exemplo Prático de Fluxo:**   
+
+Imagine a criação de um jogo onde salvamos o recorde do jogador. A tag configurada será ```"MaiorPontuacao"``` e o valor inicial gravado será ```1500```. Quando o jogador superar essa marca atingindo ```1800``` pontos, o aplicativo dispara uma nova gravação sob a mesma tag ```"MaiorPontuacao"```, agora com o valor ```1800```. O banco de dados automaticamente descarta o número antigo e passa a retornar o novo recorde nas próximas leituras.
