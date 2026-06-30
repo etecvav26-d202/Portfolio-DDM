@@ -44,3 +44,8 @@ Sua finalidade principal é permitir a persistência de dados local. Isso signif
 
 **Vantagens e Limitações:**   
 
+| Vantagens | Limitações |
+|---|---|
+| **Simplicidade:** Fácil implementação sem necessidade de comandos SQL. | **Escopo Local:** Os dados não podem ser compartilhados entre dispositivos diferentes. |
+| **Independência de Internet:** Funciona totalmente offline. | **Segurança Baixa:** Não possui criptografia nativa avançada para dados ultrassensíveis. |
+| **Velocidade:** Acesso quase instantâneo por ler arquivos da memória local. | **Volume de Dados:** Inadequado para gerenciar tabelas gigantescas ou relacionamentos complexos. |
