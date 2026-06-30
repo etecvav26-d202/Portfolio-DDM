@@ -41,3 +41,6 @@ O **TinyDB** é um componente não visível do MIT App Inventor que pertence à 
 **Finalidade e Local de Armazenamento:**   
 
 Sua finalidade principal é permitir a persistência de dados local. Isso significa que as informações salvas pelo usuário não são perdidas quando o aplicativo é fechado ou quando o dispositivo é reiniciado. Os dados são armazenados diretamente na memória interna do próprio dispositivo (smartphone ou tablet), no espaço reservado exclusivamente para aquele aplicativo.
+
+**Vantagens e Limitações:**   
+
