@@ -70,3 +70,8 @@ Imagine a criação de um jogo onde salvamos o recorde do jogador. A tag configu
 ## 4. Componentes Relacionados (Blocos)
 
 Para interagir com o TinyDB, utilizamos blocos específicos dentro do editor de lógica do App Inventor.
+
+```StoreValue (tag, valueToStore)```:
+
+- **Quando utilizar:** Sempre que precisar salvar ou atualizar uma informação.
+- **Exemplo:** Guardar o nome digitado em uma caixa de texto ao clicar no botão "Salvar".
