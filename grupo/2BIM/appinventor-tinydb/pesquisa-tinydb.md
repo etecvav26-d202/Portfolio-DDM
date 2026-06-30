@@ -57,3 +57,5 @@ Sua finalidade principal é permitir a persistência de dados local. Isso signif
 
 ## 3. Funcionamento do TinyDB
 
+O funcionamento do TinyDB baseia-se no conceito de armazenamento de dados do tipo Chave-Valor. No ambiente do App Inventor, a chave é denominada **Tag**, que consiste em uma string de texto atuando como um identificador exclusivo para localizar uma informação. O **Valor**, por sua vez, representa o conteúdo armazenado sob aquela etiqueta específica, podendo abranger desde textos simples e números até listas completas de informações.
+
