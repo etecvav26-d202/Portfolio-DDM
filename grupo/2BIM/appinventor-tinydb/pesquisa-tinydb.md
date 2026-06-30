@@ -20,3 +20,5 @@ Informática para Internet
 
 ## 1. O que é o MIT App Inventor?
 
+O **MIT App Inventor** é uma plataforma de desenvolvimento web de código aberto mantida pelo Massachusetts Institute of Technology (MIT). Ele permite a criação de aplicativos para dispositivos Android e iOS utilizando uma abordagem visual baseada em blocos de arrastar e soltar, eliminando a necessidade de digitar códigos em linguagens complexas como Java, Kotlin ou Swift.
+
