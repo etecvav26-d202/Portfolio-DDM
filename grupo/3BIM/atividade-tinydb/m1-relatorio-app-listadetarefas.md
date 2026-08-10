@@ -24,5 +24,12 @@ Informática para Internet
 
 ## Descrição 
 
+O aplicativo é um gerenciador de tarefas desenvolvido no MIT App Inventor, criado para ajudar o usuário a organizar suas atividades de maneira simples e prática. Nele, é possível cadastrar tarefas informando nome, categoria, prioridade, data e observações.
+
+### 🎯 Objetivo
+
+O principal objetivo é facilitar a organização das tarefas do dia a dia, permitindo que o usuário saiba quais atividades ainda precisam ser realizadas e quais já foram concluídas. A divisão por prioridades também ajuda a identificar as tarefas mais importantes.
+
+
 ## Print das Telas do Design e dos Blocos
 
