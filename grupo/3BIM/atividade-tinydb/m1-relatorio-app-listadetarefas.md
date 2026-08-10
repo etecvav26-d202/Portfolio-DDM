@@ -24,7 +24,9 @@ Informática para Internet
 
 ## Descrição 
 
-O aplicativo é um gerenciador de tarefas desenvolvido no MIT App Inventor, criado para ajudar o usuário a organizar suas atividades de maneira simples e prática. Nele, é possível cadastrar tarefas informando nome, categoria, prioridade, data e observações.
+O aplicativo desenvolvido no MIT App Inventor é um gerenciador de tarefas criado para auxiliar o usuário na organização de suas atividades diárias. A proposta é reunir, em um único aplicativo, as tarefas que precisam ser realizadas, permitindo que o usuário registre informações importantes sobre cada uma delas e acompanhe seu andamento. Ao cadastrar uma tarefa, é possível informar seu nome, categoria, nível de prioridade, data e observações, tornando o controle das atividades mais detalhado e organizado.
+
+O aplicativo foi pensado para ser simples de utilizar e facilitar a rotina do usuário. As tarefas são organizadas de acordo com seu estado, podendo ser visualizadas como pendentes ou concluídas. Dessa forma, o usuário consegue acompanhar o que ainda precisa fazer e também visualizar as atividades que já foram realizadas.
 
 ### 🎯 Objetivo
 
