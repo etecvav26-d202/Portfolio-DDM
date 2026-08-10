@@ -30,8 +30,11 @@ O aplicativo foi pensado para ser simples de utilizar e facilitar a rotina do us
 
 ### 🎯 Objetivo
 
-O principal objetivo é facilitar a organização das tarefas do dia a dia, permitindo que o usuário saiba quais atividades ainda precisam ser realizadas e quais já foram concluídas. A divisão por prioridades também ajuda a identificar as tarefas mais importantes.
+O principal objetivo do aplicativo é facilitar a organização e o gerenciamento de tarefas, ajudando o usuário a controlar melhor suas atividades e compromissos. 
 
+A utilização de diferentes níveis de prioridade, como urgente, alta, média e baixa, permite que o usuário identifique rapidamente quais atividades precisam ser realizadas primeiro. Além disso, a possibilidade de adicionar uma data e observações ajuda a manter informações importantes relacionadas à tarefa no próprio aplicativo, evitando a necessidade de utilizar outros meios para fazer essas anotações.
+
+Outro objetivo do projeto é aplicar conhecimentos de lógica de programação e desenvolvimento de aplicativos, utilizando os recursos disponíveis no MIT App Inventor para transformar uma ideia em uma aplicação funcional.
 
 ## Print das Telas do Design e dos Blocos
 
