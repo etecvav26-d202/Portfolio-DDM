@@ -62,7 +62,7 @@ O projeto também possibilitou trabalhar com armazenamento de dados, manipulaç�
 
 | Print da tela do Design | Print da tela dos Blocos |
 |------|------|
-| ![Desing do aplicativo]() | ![Blocos de programação]() |
+| ![Desing do aplicativo](img/design_screen1.png) | ![Blocos de programação](img/blocos_screen1.png) |
 | ![Desing do aplicativo]() | ![Blocos de programação]() |
 | ![Desing do aplicativo]() | ![Blocos de programação]() |
 | ![Desing do aplicativo]() | ![Blocos de programação]() |
