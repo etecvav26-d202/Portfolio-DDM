@@ -66,9 +66,3 @@ O projeto também possibilitou trabalhar com armazenamento de dados, manipulaç�
 | ![Desing do aplicativo](img/design_screen2.png) | ![Blocos de programação](img/blocos_screen2.png) |
 | ![Desing do aplicativo](img/design_screen3.png) | ![Blocos de programação](img/blocos_screen3_part1.png) | ![Blocos de programação](img/blocos_screen3_part2.png) |
 | ![Desing do aplicativo](img/design_screen4.png) | ![Blocos de programação](img/blocos_screen4.png) |
-
-
-| Tela 1 | Tela 2 | Tela 3 | Tela 4 |
-|---|---|---|---|
-| <img src="img/design_screen1.png" width="250"> | <img src="img/design_screen2.png" width="250"> | <img src="img/design_screen3.png" width="250"> | <img src="img/design_screen4.png" width="250"> |
-| ![Blocos de programação](img/blocos_screen1.png) | ![Blocos de programação](img/blocos_screen2.png) |![Blocos de programação](img/blocos_screen3_part1.png) | ![Blocos de programação](img/blocos_screen4.png) |
