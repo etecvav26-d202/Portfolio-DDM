@@ -60,7 +60,7 @@ O projeto também possibilitou trabalhar com armazenamento de dados, manipulaç�
 
 ## Print das Telas do Design e dos Blocos
 
-| Print da tela do Design | Print da tela dos Blocos | Print da tela dos Blocos |
+| Print da tela do Design | Print da tela dos Blocos | Print da tela dos Blocos - 2ª parte (se houver) |
 |------|------|-----|
 | ![Desing do aplicativo](img/design_screen1.png) | ![Blocos de programação](img/blocos_screen1.png) |
 | ![Desing do aplicativo](img/design_screen2.png) | ![Blocos de programação](img/blocos_screen2.png) |
