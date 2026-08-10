@@ -69,6 +69,6 @@ O projeto também possibilitou trabalhar com armazenamento de dados, manipulaç�
 
 
 | Tela 1 | Tela 2 | Tela 3 | Tela 4 |
-|------|------|-----|------|
+|---|---|---|---|
 | ![Desing do aplicativo](img/design_screen1.png) | ![Desing do aplicativo](img/design_screen2.png) | ![Desing do aplicativo](img/design_screen3.png) | ![Desing do aplicativo](img/design_screen4.png) |
 
