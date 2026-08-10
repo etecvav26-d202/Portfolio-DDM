@@ -36,5 +36,13 @@ A utilização de diferentes níveis de prioridade, como urgente, alta, média e
 
 Outro objetivo do projeto é aplicar conhecimentos de lógica de programação e desenvolvimento de aplicativos, utilizando os recursos disponíveis no MIT App Inventor para transformar uma ideia em uma aplicação funcional.
 
+### ⚙️ Funcionamento
+
+O aplicativo possui diferentes telas responsáveis por funções específicas, evitando que todas as informações e ações fiquem concentradas em uma única tela. Na tela de cadastro, o usuário pode inserir uma nova tarefa e preencher seus principais dados, como nome, categoria, prioridade, data e observações. Depois que a tarefa é cadastrada, ela é adicionada à lista e fica disponível na área de tarefas pendentes.
+
+Na tela de tarefas pendentes, as atividades são organizadas de acordo com sua prioridade, permitindo uma visualização mais prática. O usuário pode selecionar uma tarefa e marcá-la como concluída. Quando isso acontece, a tarefa deixa de fazer parte das pendentes e passa a aparecer na tela de tarefas concluídas. Também existem opções para excluir tarefas individualmente, sempre apresentando uma mensagem de confirmação antes da exclusão.
+
+Além disso, o aplicativo possui funções para apagar todas as tarefas pendentes ou todas as tarefas concluídas de uma só vez. Antes de realizar essas ações, o sistema solicita uma confirmação ao usuário, evitando que informações sejam apagadas por engano.
+
 ## Print das Telas do Design e dos Blocos
 
