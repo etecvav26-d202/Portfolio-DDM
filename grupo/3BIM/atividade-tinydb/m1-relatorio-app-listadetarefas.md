@@ -52,5 +52,11 @@ Para armazenar as informações das tarefas foi utilizado o componente ***TinyDB
 
 Cada tarefa possui várias informações armazenadas em uma lista, como o nome da atividade, categoria, prioridade, data, observação e seu estado de conclusão. A partir desses dados, o aplicativo consegue separar as tarefas pendentes das concluídas e organizá-las de acordo com a prioridade escolhida pelo usuário.
 
+### 💡 Finalidade do projeto
+
+Além de apresentar uma solução para a organização de atividades, o projeto teve como finalidade colocar em prática os conhecimentos adquiridos durante o curso, principalmente relacionados à lógica de programação e ao desenvolvimento de aplicações. A criação do aplicativo permitiu compreender melhor como diferentes elementos de programação podem trabalhar juntos para realizar ações de acordo com o que o usuário faz dentro da aplicação.
+
+O projeto também possibilitou trabalhar com armazenamento de dados, manipulação de listas, condições e repetições, além da criação de uma interface com diferentes telas e funções. Dessa forma, o aplicativo não serve apenas como uma ferramenta de organização, mas também demonstra na prática o processo de desenvolvimento de uma aplicação funcional, desde a entrada das informações pelo usuário até o armazenamento, processamento e exibição dos dados.
+
 ## Print das Telas do Design e dos Blocos
 
