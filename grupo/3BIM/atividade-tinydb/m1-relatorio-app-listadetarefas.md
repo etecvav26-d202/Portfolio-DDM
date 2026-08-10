@@ -48,7 +48,7 @@ Além disso, o aplicativo possui funções para apagar todas as tarefas pendente
 
 O aplicativo foi desenvolvido utilizando a programação por blocos do MIT App Inventor, permitindo trabalhar diferentes conceitos de lógica de programação. Durante a construção foram utilizadas variáveis globais, listas, estruturas condicionais, estruturas de repetição, eventos de clique e procedimentos, responsáveis por organizar e controlar o funcionamento das diferentes partes do aplicativo.
 
-Para armazenar as informações das tarefas foi utilizado o componente ***TinyDB***. Ele permite salvar a lista de tarefas no dispositivo, fazendo com que os dados permaneçam armazenados mesmo quando o aplicativo é fechado. Quando uma tela é aberta novamente, o aplicativo recupera essas informações e atualiza as listas para mostrar os dados salvos.
+Para armazenar as informações das tarefas foi utilizado o componente **TinyDB**. Ele permite salvar a lista de tarefas no dispositivo, fazendo com que os dados permaneçam armazenados mesmo quando o aplicativo é fechado. Quando uma tela é aberta novamente, o aplicativo recupera essas informações e atualiza as listas para mostrar os dados salvos.
 
 Cada tarefa possui várias informações armazenadas em uma lista, como o nome da atividade, categoria, prioridade, data, observação e seu estado de conclusão. A partir desses dados, o aplicativo consegue separar as tarefas pendentes das concluídas e organizá-las de acordo com a prioridade escolhida pelo usuário.
 
