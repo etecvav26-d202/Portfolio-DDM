@@ -20,7 +20,7 @@ Informática para Internet
 
 ## Questão 1 — Antes de desenvolver
 
-**Antes de iniciar o desenvolvimento, quais decisões o grupo deveria tomar?**   
+***Antes de iniciar o desenvolvimento, quais decisões o grupo deveria tomar?***   
 
 Antes de começar a criar o aplicativo, o grupo deve definir:
 
@@ -33,7 +33,7 @@ Essas decisões são importantes porque ajudam a entender as necessidades dos us
 
 ## Questão 2 — Funciona, então está pronto?
 
-**Durante o desenvolvimento, o grupo terminou a programação e conseguiu executar o aplicativo corretamente uma vez. Por isso, considerou o aplicativo finalizado. Vocês concordam com essa decisão?**   
+***Durante o desenvolvimento, o grupo terminou a programação e conseguiu executar o aplicativo corretamente uma vez. Por isso, considerou o aplicativo finalizado. Vocês concordam com essa decisão?***   
 
 Não concordamos com essa decisão. O fato de o aplicativo ter funcionado uma vez não significa que ele esteja pronto. É necessário realizar vários testes para encontrar possíveis problemas.
 
@@ -41,7 +41,7 @@ O grupo deveria testar situações como campos vazios, dados incorretos, funcion
 
 ## Questão 3 — Mudanças fazem parte do desenvolvimento?
 
-**Durante os testes, alguns usuários disseram que não conseguiam entender facilmente como utilizar o aplicativo. Entretanto, todas as funcionalidades estavam funcionando corretamente. Um integrante afirmou que, se o programa está funcionando, não precisam mudar nada. O grupo concorda ou discorda dessa afirmação?**   
+***Durante os testes, alguns usuários disseram que não conseguiam entender facilmente como utilizar o aplicativo. Entretanto, todas as funcionalidades estavam funcionando corretamente. Um integrante afirmou que, se o programa está funcionando, não precisam mudar nada. O grupo concorda ou discorda dessa afirmação?***   
 
 Discordamos da afirmação. Mesmo que todas as funções estejam funcionando, o aplicativo pode precisar de mudanças. Se os usuários não conseguem entender facilmente como utilizar o aplicativo, existe um problema na interface ou na experiência do usuário.
 
@@ -49,4 +49,4 @@ Nesse caso, o grupo pode modificar a organização das telas, os componentes ou 
 
 ## Questão 4 — E quando alguma coisa dá errado?
 
-**Durante os testes, o grupo percebeu que alguns dados não estavam sendo armazenados como esperado. Em vez de recomeçar todo o projeto, como o grupo poderia investigar e resolver o problema seguindo um processo organizado de desenvolvimento?**
+***Durante os testes, o grupo percebeu que alguns dados não estavam sendo armazenados como esperado. Em vez de recomeçar todo o projeto, como o grupo poderia investigar e resolver o problema seguindo um processo organizado de desenvolvimento?***
