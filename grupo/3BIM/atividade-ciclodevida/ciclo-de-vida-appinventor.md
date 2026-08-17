@@ -31,3 +31,5 @@ Antes de começar a criar o aplicativo, o grupo deve definir:
 
 Essas decisões são importantes porque ajudam a entender as necessidades dos usuários e evitam criar funções que não terão utilidade. Também seria importante planejar as telas e a organização do aplicativo antes de começar a programação.
 
+## Questão 2 — Funciona, então está pronto?
+
