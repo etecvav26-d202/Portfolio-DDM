@@ -59,3 +59,7 @@ Após encontrar a causa, o grupo deve fazer a correção necessária e testar no
 
 ***Um aplicativo realmente fica "pronto para sempre"?***   
 
+Um aplicativo não fica pronto para sempre. Mesmo depois de ser entregue e utilizado pelos usuários, podem aparecer erros, sugestões, novos requisitos ou a necessidade de acrescentar novas funcionalidades.
+
+Por isso, é necessário realizar a manutenção e evolução do aplicativo, corrigindo problemas e criando novas versões quando necessário. Assim, o desenvolvimento continua mesmo depois da primeira publicação, pois o aplicativo pode ser modificado, testado e atualizado durante o período em que estiver sendo utilizado.
+
