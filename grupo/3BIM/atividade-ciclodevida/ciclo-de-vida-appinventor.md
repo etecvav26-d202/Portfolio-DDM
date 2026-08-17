@@ -49,3 +49,4 @@ Nesse caso, o grupo pode modificar a organização das telas, os componentes ou 
 
 ## Questão 4 — E quando alguma coisa dá errado?
 
+**Durante os testes, o grupo percebeu que alguns dados não estavam sendo armazenados como esperado. Em vez de recomeçar todo o projeto, como o grupo poderia investigar e resolver o problema seguindo um processo organizado de desenvolvimento?**
