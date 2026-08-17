@@ -1,4 +1,4 @@
-# Ciclo de vida e processo de desenvolvimento de aplicativos móveis
+# 🧑‍💻 Ciclo de Vida e Processo de Desenvolvimento de Aplicativos Móveis
 
 **`Instituição:`**
 ETEC Vasco Antônio Venchiarutti
