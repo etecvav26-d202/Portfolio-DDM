@@ -57,3 +57,5 @@ Após encontrar a causa, o grupo deve fazer a correção necessária e testar no
 
 ## Questão 5 — Quando termina o desenvolvimento?
 
+***Um aplicativo realmente fica "pronto para sempre"?***   
+
