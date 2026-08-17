@@ -46,3 +46,6 @@ O grupo deveria testar situações como campos vazios, dados incorretos, funcion
 Discordamos da afirmação. Mesmo que todas as funções estejam funcionando, o aplicativo pode precisar de mudanças. Se os usuários não conseguem entender facilmente como utilizar o aplicativo, existe um problema na interface ou na experiência do usuário.
 
 Nesse caso, o grupo pode modificar a organização das telas, os componentes ou a forma de navegação para tornar o aplicativo mais fácil de usar. Portanto, um aplicativo funcionar tecnicamente não significa que ele seja uma boa solução para o usuário.
+
+## Questão 4 — E quando alguma coisa dá errado?
+
