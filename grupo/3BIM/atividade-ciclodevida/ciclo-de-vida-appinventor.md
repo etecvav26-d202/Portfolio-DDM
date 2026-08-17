@@ -33,3 +33,5 @@ Essas decisões são importantes porque ajudam a entender as necessidades dos us
 
 ## Questão 2 — Funciona, então está pronto?
 
+**Durante o desenvolvimento, o grupo terminou a programação e conseguiu executar o aplicativo corretamente uma vez. Por isso, considerou o aplicativo finalizado. Vocês concordam com essa decisão?**   
+
