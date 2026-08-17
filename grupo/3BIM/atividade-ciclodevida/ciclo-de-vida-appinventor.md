@@ -39,3 +39,5 @@ Não concordamos com essa decisão. O fato de o aplicativo ter funcionado uma ve
 
 O grupo deveria testar situações como campos vazios, dados incorretos, funcionamento dos botões, navegação entre as telas e armazenamento dos dados. Também seria importante verificar se o aplicativo funciona corretamente em diferentes tamanhos de tela. Esses testes ajudam a encontrar e corrigir problemas antes que o aplicativo seja utilizado pelos usuários.
 
+## Questão 3 — Mudanças fazem parte do desenvolvimento?
+
