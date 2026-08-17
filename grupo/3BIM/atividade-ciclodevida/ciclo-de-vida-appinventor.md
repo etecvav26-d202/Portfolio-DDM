@@ -18,3 +18,9 @@ Informática para Internet
 
 ---
 
+## Questão 1 — Antes de desenvolver
+
+**Antes de iniciar o desenvolvimento, quais decisões o grupo deveria tomar?**   
+
+
+
