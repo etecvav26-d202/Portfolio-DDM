@@ -35,3 +35,7 @@ Essas decisões são importantes porque ajudam a entender as necessidades dos us
 
 **Durante o desenvolvimento, o grupo terminou a programação e conseguiu executar o aplicativo corretamente uma vez. Por isso, considerou o aplicativo finalizado. Vocês concordam com essa decisão?**   
 
+Não concordamos com essa decisão. O fato de o aplicativo ter funcionado uma vez não significa que ele esteja pronto. É necessário realizar vários testes para encontrar possíveis problemas.
+
+O grupo deveria testar situações como campos vazios, dados incorretos, funcionamento dos botões, navegação entre as telas e armazenamento dos dados. Também seria importante verificar se o aplicativo funciona corretamente em diferentes tamanhos de tela. Esses testes ajudam a encontrar e corrigir problemas antes que o aplicativo seja utilizado pelos usuários.
+
