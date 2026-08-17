@@ -41,3 +41,4 @@ O grupo deveria testar situações como campos vazios, dados incorretos, funcion
 
 ## Questão 3 — Mudanças fazem parte do desenvolvimento?
 
+**Durante os testes, alguns usuários disseram que não conseguiam entender facilmente como utilizar o aplicativo. Entretanto, todas as funcionalidades estavam funcionando corretamente. Um integrante afirmou que, se o programa está funcionando, não precisam mudar nada. O grupo concorda ou discorda dessa afirmação?**   
