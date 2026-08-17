@@ -54,3 +54,6 @@ Nesse caso, o grupo pode modificar a organização das telas, os componentes ou 
 Primeiro, o grupo deve identificar exatamente qual problema está acontecendo com o armazenamento dos dados no TinyDB. Depois, deve realizar testes para descobrir em quais situações o erro aparece e verificar os blocos responsáveis por salvar e recuperar as informações.
 
 Após encontrar a causa, o grupo deve fazer a correção necessária e testar novamente o aplicativo. Se o problema continuar, será necessário investigar novamente e realizar novas alterações. Dessa forma, não é preciso recomeçar o projeto inteiro, pois o desenvolvimento pode voltar para uma etapa anterior, corrigir o problema e depois realizar novos testes.
+
+## Questão 5 — Quando termina o desenvolvimento?
+
