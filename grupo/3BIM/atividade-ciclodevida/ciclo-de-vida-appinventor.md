@@ -42,3 +42,7 @@ O grupo deveria testar situações como campos vazios, dados incorretos, funcion
 ## Questão 3 — Mudanças fazem parte do desenvolvimento?
 
 **Durante os testes, alguns usuários disseram que não conseguiam entender facilmente como utilizar o aplicativo. Entretanto, todas as funcionalidades estavam funcionando corretamente. Um integrante afirmou que, se o programa está funcionando, não precisam mudar nada. O grupo concorda ou discorda dessa afirmação?**   
+
+Discordamos da afirmação. Mesmo que todas as funções estejam funcionando, o aplicativo pode precisar de mudanças. Se os usuários não conseguem entender facilmente como utilizar o aplicativo, existe um problema na interface ou na experiência do usuário.
+
+Nesse caso, o grupo pode modificar a organização das telas, os componentes ou a forma de navegação para tornar o aplicativo mais fácil de usar. Portanto, um aplicativo funcionar tecnicamente não significa que ele seja uma boa solução para o usuário.
