@@ -31,3 +31,6 @@ A bola é movimentada pelo acelerômetro através dos eixos X e Y, de acordo com
 
 A partir do material fornecido, foram feitas modificações principalmente no design e na organização do jogo. Foram utilizadas novas imagens, cores e uma organização diferente dos componentes da tela. Também foram realizados ajustes nos blocos para controlar a pontuação, as bolas restantes, o tempo e a velocidade do buraco. Essas alterações foram feitas para deixar o jogo mais personalizado e melhorar sua jogabilidade, mantendo a ideia principal apresentada no material.
 
+| Print da Tela do Design | Print da Tela dos Blocos |
+| ---- | ---- |
+| ![Design do Aplicativo](img/jogo1_screen1_design.png) | ![Blocos de programação](img/jogo1_screen1_blocks.png) |
