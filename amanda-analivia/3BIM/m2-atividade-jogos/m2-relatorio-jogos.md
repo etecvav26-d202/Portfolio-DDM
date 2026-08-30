@@ -53,3 +53,11 @@ O jogador realiza uma tacada arrastando a bola e soltando na direção desejada.
 
 A partir do material fornecido, foram adicionadas diversas melhorias. Foi criada uma interface personalizada com uma nova imagem de mesa, além de sistema de pontuação, três vidas e cronômetro. Também foram adicionados níveis de dificuldade. Foram criadas telas de redirecionamento assim que o jogador ganha ou perde a partida. As caçapas passaram a funcionar como áreas de colisão invisíveis, deixando a aparência da mesa mais limpa. Também foi corrigido o comportamento da bola ao entrar na caçapa, fazendo com que ela pare completamente antes de retornar ao centro, evitando que continue se movimentando.
 
+| Print da tela do Design | Print da tela dos Blocos |
+|------|------|
+| ![Desing do aplicativo](img/jogo2_screen1_design.png) | ![Blocos de programação](img/jogo2_screen1_blocks.png) |
+| ![Desing do aplicativo](img/jogo2_screen2_design.png) | ![Blocos de programação](img/jogo2_screen2_blocks.png) |
+| ![Desing do aplicativo](img/jogo2_screen3_design.png) | ![Blocos de programação](img/jogo2_screen3_blocks.png) |
+
+--- 
+
