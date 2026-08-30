@@ -34,3 +34,22 @@ A partir do material fornecido, foram feitas modificações principalmente no de
 | Print da Tela do Design | Print da Tela dos Blocos |
 | ---- | ---- |
 | ![Design do Aplicativo](img/jogo1_screen1_design.png) | ![Blocos de programação](img/jogo1_screen1_blocks.png) |
+
+---
+
+# Jogo 2 - Bilharzinho
+
+## Descrição
+
+**Objetivo:**   
+
+O objetivo das modificações foi melhorar o jogo de bilhar apresentado no material, deixando-o mais completo, divertido e desafiador, além de tornar a experiência mais próxima de um jogo de verdade. A versão original trabalha conceitos como movimento da bola, colisão com as bordas, gravidade artificial e caçapas.
+
+**Funcionamento:**   
+
+O jogador realiza uma tacada arrastando a bola e soltando na direção desejada. A bola se movimenta pela mesa, rebate nas bordas e diminui sua velocidade gradualmente até parar, simulando o atrito de uma mesa de bilhar. Quando a bola colide com uma das seis caçapas, ela para, um som é reproduzido, a bola retorna ao centro e o jogador recebe um ponto.
+
+**Modificações feitas:**   
+
+A partir do material fornecido, foram adicionadas diversas melhorias. Foi criada uma interface personalizada com uma nova imagem de mesa, além de sistema de pontuação, três vidas e cronômetro. Também foram adicionados níveis de dificuldade. Foram criadas telas de redirecionamento assim que o jogador ganha ou perde a partida. As caçapas passaram a funcionar como áreas de colisão invisíveis, deixando a aparência da mesa mais limpa. Também foi corrigido o comportamento da bola ao entrar na caçapa, fazendo com que ela pare completamente antes de retornar ao centro, evitando que continue se movimentando.
+
