@@ -42,7 +42,7 @@ A principal alteração no projeto foi a imagem do carro. O carro original foi s
 Com o desenvolvimento do aplicativo, foi possível entender melhor o funcionamento do sensor acelerômetro e sua utilização para criar movimentos em jogos no App Inventor.
 
 ## Print das telas do Design
-![Desing do aplicativo](img/jogo1tela.png)
+![Desing do aplicativo](img/apps3bim/acelerometro/jogo1tela.png)
 
 ## Print das telas dos Blocos
 ![Blocos do aplicativo](imagens/blocoapp1.png)
