@@ -71,7 +71,11 @@ A mudança realizada foi a alteração da cor da mesa de sinuca, deixando o apli
 
 Conseguimos criar um jogo simples de bilhar com movimento, colisão, rebote e desaceleração da bola.
 
+## Print das telas do Design
+![Desing do aplicativo](img/apps3bim/bilhar/jogos2tela.png)
 
+## Print das telas dos Blocos
+![Blocos do aplicativo](img/apps3bim/bilhar/jogo2bloco.png)
 
 ## Jogo 3
 Aplicativo com PongMaster
