@@ -65,3 +65,33 @@ A mudança realizada foi a alteração da cor da mesa de sinuca, deixando o apli
 **Conclusão**
 
 Conseguimos criar um jogo simples de bilhar com movimento, colisão, rebote e desaceleração da bola.
+
+
+
+## Jogo 3
+Aplicativo com PongMaster
+
+
+**Introdução**   
+
+O Pong Star é um jogo desenvolvido para Android utilizando o MIT App Inventor. O aplicativo é inspirado no clássico Pong, no qual o jogador controla uma barra para rebater uma bola e destruir blocos.
+
+**Objetivo**   
+
+O objetivo é conseguir a maior pontuação possível, rebatendo a bola e evitando que ela ultrapasse a parte inferior da tela. O aplicativo possui opções de nível médio e difícil.
+
+**Desenvolvimento**   
+
+O aplicativo foi desenvolvido por meio de programação em blocos, utilizando componentes como Canvas, ImageSprite, Buttons, Labels e Sound. Foram criadas diferentes telas para o menu, seleção de nível e partida.
+
+**Funcionamento**   
+
+Durante o jogo, o jogador movimenta a barra para a direita e para a esquerda. A bola se movimenta pela tela e, ao atingir um bloco, ele desaparece e a pontuação aumenta. As colisões também alteram a direção da bola e podem reproduzir efeitos sonoros.
+
+**Pontuação e fim de jogo**   
+
+A pontuação começa em zero e aumenta a cada bloco destruído. Quando a bola atinge a parte inferior da tela, a partida termina e é apresentada a tela de Game Over.
+
+**Conclusão**   
+
+O desenvolvimento do Pong Star permitiu aplicar conceitos de lógica de programação, eventos, variáveis, colisões e movimentação de objetos. O resultado é um jogo simples, interativo e funcional, desenvolvido através do MIT App Inventor.
