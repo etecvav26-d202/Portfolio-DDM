@@ -104,3 +104,11 @@ A pontuação começa em zero e aumenta a cada bloco destruído. Quando a bola a
 **Conclusão**   
 
 O desenvolvimento do Pong Star permitiu aplicar conceitos de lógica de programação, eventos, variáveis, colisões e movimentação de objetos. O resultado é um jogo simples, interativo e funcional, desenvolvido através do MIT App Inventor.
+
+## Print das telas do Design
+![Desing do aplicativo](img/apps3bim/pong/jogo3screen1/jogo3tela1.jpeg)
+![Desing do aplicativo](img/apps3bim/pong/jogo3screen2/jogo3tela2.jpeg)
+![Desing do aplicativo](img/apps3bim/pong/jogo3screen3/jogo3tela3.jpeg)
+
+## Print das telas dos Blocos
+![Blocos do aplicativo](img/apps3bim/bilhar/jogo2bloco.png)
