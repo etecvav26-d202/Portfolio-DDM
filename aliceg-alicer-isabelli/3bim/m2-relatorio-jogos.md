@@ -45,7 +45,7 @@ Com o desenvolvimento do aplicativo, foi possível entender melhor o funcionamen
 ![Desing do aplicativo](img/apps3bim/acelerometro/jogo1tela.png)
 
 ## Print das telas dos Blocos
-![Blocos do aplicativo](img/apps3bim/acelerometro/jogo1bloco.png)
+![Blocos do aplicativo](img/apps3bim/acelerometro/jogos1bloco.png)
 
 
 ## Jogo 2
