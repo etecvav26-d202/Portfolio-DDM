@@ -107,11 +107,15 @@ O desenvolvimento do Pong Star permitiu aplicar conceitos de lógica de programa
 
 ## Print das telas do Design
 ![Desing do aplicativo](img/apps3bim/pong/jogo3screen1/jogo3tela1.jpeg)
+
 ![Desing do aplicativo](img/apps3bim/pong/jogo3screen2/jogo3tela2.jpeg)
+
 ![Desing do aplicativo](img/apps3bim/pong/jogo3screen3/jogo3tela3.jpeg)
 
 ## Print das telas dos Blocos
 ![Blocos do aplicativo](img/apps3bim/pong/jogo3screen1/jogo3bloco1.jpeg)
+
 ![Blocos do aplicativo](img/apps3bim/pong/jogo3screen2/jogo3blocos2.jpeg)
+
 ![Blocos do aplicativo](img/apps3bim/pong/jogo3screen3/jogo3blocos3.jpeg)
 
