@@ -40,4 +40,4 @@ O jogo possui um sistema de vidas e pontuação. Ao deixar a bola passar pela pe
 
 | Print da tela do Design | Print da tela dos Blocos |
 |------|------|
-| ![Desing do aplicativo](img/designeautoral.png) | ![Blocos de programação](img/blocks.png) |
+| ![Desing do aplicativo](img/designerautoral.png) | ![Blocos de programação](img/blocks.png) |
