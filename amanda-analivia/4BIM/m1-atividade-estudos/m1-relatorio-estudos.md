@@ -35,4 +35,4 @@ Ao concluir as 10 perguntas, o aplicativo apresenta uma tela de resultados com a
 
 | Print da tela do Design | Print da tela dos Blocos |
 |------|------|
-| ![Design do Aplicativo](amanda-analivia/4BIM/m1-atividade-estudos/img/screen1_design.png) | ![Blocos de programação](amanda-analivia/4BIM/m1-atividade-estudos/img/screen1_blocos.png) |
+| ![Design do Aplicativo](img/screen1_design.png) | ![Blocos de programação](img/screen1_blocos.png) |
