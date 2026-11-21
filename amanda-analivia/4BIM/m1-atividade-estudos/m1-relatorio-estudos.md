@@ -33,3 +33,6 @@ A avaliação é composta por 10 questões de múltipla escolha, selecionadas al
 
 Ao concluir as 10 perguntas, o aplicativo apresenta uma tela de resultados com a quantidade de acertos, erros, porcentagem de aproveitamento e uma mensagem de desempenho. Dessa forma, o estudante consegue acompanhar seu resultado e identificar a necessidade de revisar o conteúdo.
 
+| Print da tela do Design | Print da tela dos Blocos |
+|------|------|
+| ![Design do Aplicativo](amanda-analivia/4BIM/m1-atividade-estudos/img/screen1_design.png) | ![Blocos de programação](amanda-analivia/4BIM/m1-atividade-estudos/img/screen1_blocos.png) |
