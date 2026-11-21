@@ -1,4 +1,4 @@
-# Relatório dos Jogos
+# Relatório dos Aplicativo com Avaliação e Material de Estudos de Inglês
 
 **`Instituição:`**
 ETEC Vasco Antônio Venchiarutti
@@ -14,3 +14,7 @@ Informática para Internet
 - [Ana Lívia Takeyama Romanato](https://github.com/liviatakeyama)
 
 ---
+
+# Aplicativo - Learning English
+
+## Descrição
