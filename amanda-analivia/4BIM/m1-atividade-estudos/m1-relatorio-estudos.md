@@ -36,3 +36,7 @@ Ao concluir as 10 perguntas, o aplicativo apresenta uma tela de resultados com a
 | Print da tela do Design | Print da tela dos Blocos |
 |------|------|
 | ![Design do Aplicativo](img/screen1_design.png) | ![Blocos de programação](img/screen1_blocos.png) |
+| ![Design do Aplicativo](img/screen2_design.png)  | ![Blocos de programação](img/screen2_blocos.png) |
+| ![Design do Aplicativo](img/screen3_design1.png) ![Design do Aplicativo](img/screen3_design2.png)  | ![Blocos de programação](img/screen3_blocos.png) |
+| ![Design do Aplicativo](img/screen4_design.png)  | ![Blocos de programação](img/screen4_blocos.png) |
+| ![Design do Aplicativo](img/screen5_design.png)  | ![Blocos de programação](img/screen5_blocos.png) |
