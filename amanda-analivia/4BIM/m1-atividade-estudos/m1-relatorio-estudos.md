@@ -18,3 +18,8 @@ Informática para Internet
 # Aplicativo - Learning English
 
 ## Descrição
+
+***Objetivo:***   
+
+O objetivo do aplicativo é auxiliar os estudantes no aprendizado da língua inglesa, oferecendo um ambiente interativo e de fácil utilização para estudar conteúdos gramaticais e testar os conhecimentos adquiridos. A proposta é tornar o estudo mais dinâmico, permitindo que o usuário revise os assuntos e pratique por meio de questões de múltipla escolha.
+
