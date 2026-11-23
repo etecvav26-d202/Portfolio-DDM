@@ -35,4 +35,5 @@ O aplicativo foi desenvolvido utilizando o App Inventor, com uma interface simpl
 
 **Conclusão**   
 
+A criação do aplicativo Você na ONU permitiu desenvolver uma forma simples e acessível de explorar informações sobre diferentes países. Por meio da seleção de cada país, os usuários podem conhecer tópicos relacionados a ele e acessar links com conteúdos complementares. O projeto contribuiu para ampliar os conhecimentos sobre Geografia e Geopolítica.
 
