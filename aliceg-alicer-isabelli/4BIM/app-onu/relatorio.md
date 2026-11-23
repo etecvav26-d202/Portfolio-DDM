@@ -29,11 +29,9 @@ Você na ONU é um aplicativo desenvolvido por meio da plataforma App Inventor, 
 
 O objetivo do aplicativo é facilitar o acesso a informações sobre Geografia e Geopolítica, reunindo notícias e fatos sobre acontecimentos mundiais por meio de links informativos. A proposta é incentivar os usuários a conhecer melhor diferentes países, compreender questões internacionais e se manter atualizados sobre o que acontece no mundo.
 
-**Desenvolvimento**   
+**Desenvolvimento**
 
-
-**Mudança realizada**   
-
+O aplicativo foi desenvolvido utilizando o App Inventor, com uma interface simples e organizada para facilitar a navegação. Na tela inicial, o usuário clica em começar e na segunda tela pode selecionar o país que deseja e acessar uma página com tópicos e informações relacionadas a ele. Além disso, o aplicativo disponibiliza links externos, permitindo que o usuário escolha e acesse conteúdos complementares, como notícias e informações sobre o país selecionado. 
 
 **Conclusão**   
 
